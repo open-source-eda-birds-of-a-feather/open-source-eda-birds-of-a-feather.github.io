@@ -8,7 +8,7 @@ This Birds-of-a-Feather meeting is the third in a series that began with the DAC
 
 
 # Registration
-There is no registration fee. However, please fill in this Google Form to indicate your interests and whether you would like to share something with other attendees.
+There is no registration fee. However, please fill in [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSczKTmaTTg_DlrXA0mQ7tYq65e5lte8ldJFgJrKDWqhbpDXpQ/viewform?usp=sf_link) to indicate your interests and whether you would like to share something with other attendees.
 
 # Organization
 This year's session is being organized by Andrew Kahng (abk@eng.ucsd.edu) and Tom Spyrou (aspyrou@eng.ucsd.edu).
