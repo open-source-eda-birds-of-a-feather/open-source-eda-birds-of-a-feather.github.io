@@ -1,5 +1,5 @@
 # Open-Source EDA Birds-of-a-Feather Meeting at DAC
-https://59dac.conference-program.com/session/?sess=sess294
+[https://59dac.conference-program.com/session/?sess=sess294](https://59dac.conference-program.com/session/?sess=sess294)
 
 July 12, 2022
 7:00pm-10:00pm, Moscone West Room 3000
