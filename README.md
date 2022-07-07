@@ -48,7 +48,7 @@ This Birds-of-a-Feather meeting is the third in a series that began with the DAC
 
   - "Circuit Training ([https://github.com/google-research/circuit_training](https://github.com/google-research/circuit_training)), the open-source library for floorplanning using RL that my team and Google has open sourced recently as described in the 'A graph placement methodology for fast chip design' paper"
 
-  - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
 ### New Research Foundations ~8:50pm
 
