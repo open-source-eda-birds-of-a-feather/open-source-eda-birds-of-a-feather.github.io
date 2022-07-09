@@ -80,3 +80,50 @@ This year's session is being organized by Andrew Kahng (abk@eng.ucsd.edu) and To
 - [DAC-2019](https://github.com/The-OpenROAD-Project/Birds-of-a-Feather-Open-Source-Academic-EDA-Software/wiki/DAC-2019-Birds-of-a-Feather:-Open-Source-Academic-EDA-Software) (wiki with slides, attendees, atlas of open-source EDA projects)
 
 - [DAC-2018](https://drive.google.com/open?id=1m8ZJEvfLcUhiL1KX7rj18gzi-zLhI6P2) (slides)
+
+### Background: Initial Survey responses (39)
+
+<img src="./doc/01.png">
+<img src="./doc/02.png">
+<img src="./doc/03.png">
+
+### What would you most like to see discussed at the meeting?
+
+- Opensource EDA tools impact on the CHIPS ACT
+
+- The path forward for open source community
+
+- Verification, standard benchmarks
+
+- Real experiences of different open source usage models
+
+- How can we accelerate adoption of ML in chip design processes?
+
+- Analog design benchmarks
+
+- What prevents companies from not only adopting OSS EDA but also contributing to it?
+
+- Current development of open-source EDA tools
+
+- State of open source tools, and priorities/initiatives being planned.
+
+- Come up with a distributed way to "maintain" designs submitted to Open MPW at scale (much like GNU/Linux distributiion packagers manage to maintain an impressive amount of FLOSS software packages)
+
+  1. Elements and commitments of data and benchmarking infrastructure that enable the field to transparently move forward. 
+  
+  2. Key ("core") optimization problem statements that are the most important for the field to advance. 
+  
+  3. Open enablement of machine learning to advance optimization methodologies.
+  
+- Educational activities and advocacy movements worldwide for Open-Source EDA. 
+I am curious to learn more about the OpenRoad initiative and open-source API standards that allow "plug-and-play" in the PD flow along with data harvesting.
+
+  1. Will open source EDA develop into an ecosystem that depends not just on volunteers at universities but where also commercial companies get established, providing e.g. support / tool certification for certain applications etc.?  
+  
+  2. Perspectives on open source IP libraries (e.g. RISC-V based) - will they become part of an open source design ecosystem?
+
+### FAQs
+
+- Q: Is it possible to attend remotely?  
+
+  - A: We are trying to figure this out (e.g., using Zoom).  
