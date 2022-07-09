@@ -74,7 +74,7 @@ This Birds-of-a-Feather meeting is the third in a series that began with the DAC
 
 - (All)
 
-### Adjourn, continue discussions over beverages  ~9:45pm
+### Adjourn, Continue Discussions over Beverages  ~9:45pm
 
 
 # Registration
@@ -89,7 +89,9 @@ This year's session is being organized by Andrew Kahng (abk@eng.ucsd.edu) and To
 
 - [DAC-2018](https://drive.google.com/open?id=1m8ZJEvfLcUhiL1KX7rj18gzi-zLhI6P2) (slides)
 
-### Background: Initial Survey responses (39)
+# Background for Today's Meetings
+
+### Initial Survey Responses (39)
 
 <img src="./doc/01.png">
 <img src="./doc/02.png">
