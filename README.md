@@ -28,6 +28,14 @@ This Birds-of-a-Feather meeting is the third in a series that began with the DAC
 
   - "Showcase and updates of the EPFL logic synthesis libraries ([https://github.com/lsils/lstools-showcase](https://github.com/lsils/lstools-showcase))"
 
+- Ulf Schlichtmann, TU Munich
+ 
+  - "System-level tools (e.g., Instruction Set Simulator) recently open-sourced"
+
+- Oron Port, DFiant
+
+  - "DFiant cloud solution that offers access to OSS EDA flows"
+
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
 ### Benchmarks and Data  ~8:00pm
