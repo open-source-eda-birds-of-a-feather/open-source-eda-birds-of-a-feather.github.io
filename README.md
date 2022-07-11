@@ -91,7 +91,7 @@ This year's session is being organized by Andrew Kahng (abk@eng.ucsd.edu) and To
 
 # Background for Today's Meetings
 
-### Initial Survey Responses (39)
+### Initial Survey Responses (44)
 
 <img src="./doc/01.png">
 <img src="./doc/02.png">
