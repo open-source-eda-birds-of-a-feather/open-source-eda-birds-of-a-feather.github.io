@@ -38,7 +38,7 @@ This Birds-of-a-Feather meeting is the third in a series that began with the DAC
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
-### Benchmarks and Data  ~8:00pm
+### Benchmarks and Data  ~8:10pm
 
 - Ismail Bustany, AMD
 
@@ -131,9 +131,12 @@ I am curious to learn more about the OpenRoad initiative and open-source API sta
   1. Will open source EDA develop into an ecosystem that depends not just on volunteers at universities but where also commercial companies get established, providing e.g. support / tool certification for certain applications etc.?  
   
   2. Perspectives on open source IP libraries (e.g. RISC-V based) - will they become part of an open source design ecosystem?
+  
+- What’s the impact of OSS to chip design for the next 20 years.
 
 ### FAQs
 
 - Q: Is it possible to attend remotely?  
 
-  - A: We are trying to figure this out (e.g., using Zoom).  
+  - A: We are trying to figure this out (e.g., using Zoom). [Update: Currently this doesn't look promising.]
+
