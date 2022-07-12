@@ -28,6 +28,10 @@ This Birds-of-a-Feather meeting is the third in a series that began with the DAC
 
   - "Showcase and updates of the EPFL logic synthesis libraries ([https://github.com/lsils/lstools-showcase](https://github.com/lsils/lstools-showcase))"
 
+- Sakshi Garg, UCSC
+
+   - "LiveHD and Anubis"
+
 - Ulf Schlichtmann, TU Munich
  
   - "System-level tools (e.g., Instruction Set Simulator) recently open-sourced"
