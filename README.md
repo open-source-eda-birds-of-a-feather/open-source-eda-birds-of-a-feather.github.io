@@ -10,37 +10,37 @@ This "Open-Source EDA and Benchmarking Summit" Birds-of-a-Feather meeting is the
 
 ### Welcome and Introduction 7:00pm
 
-- Intro slides with scribed notes from discussion segments
+- Intro slides with scribed notes from discussion segments (slides)
 
 ### Open-Source EDA 7:10pm
 
 - Tom Spyrou, UC San Diego and Precision Innovations
 
-  - "OpenROAD: 3 Years in Perspective"
+  - "OpenROAD: 3 Years in Perspective" (slides)
   
 - Andreas Olofsson, Zero ASIC
 
-  - "SiliconCompiler"
+  - "SiliconCompiler" (slides)
   
 - Johan Euphrosin, Google
   
-  - "Parameters exploration using Jupyter notebook and Google Vizier"
+  - "Parameters exploration using Jupyter notebook and Google Vizier" (slides)
   
 - Siang-Yun (Sonia) Lee, EPFL
 
-  - "Showcase and updates of the EPFL logic synthesis libraries ([https://github.com/lsils/lstools-showcase](https://github.com/lsils/lstools-showcase))"
+  - "Showcase and updates of the EPFL logic synthesis libraries ([https://github.com/lsils/lstools-showcase](https://github.com/lsils/lstools-showcase))" (slides)
 
 - Sakshi Garg, UCSC
 
-   - "LiveHD and Anubis"
+   - "LiveHD and Anubis" (slides)
 
 - Ulf Schlichtmann, TU Munich
  
-  - "System-level tools (e.g., Instruction Set Simulator) recently open-sourced"
+  - "System-level tools (e.g., Instruction Set Simulator) recently open-sourced" (slides)
 
 - Oron Port, DFiant
 
-  - "DFiant cloud solution that offers access to OSS EDA flows"
+  - "DFiant cloud solution that offers access to OSS EDA flows" (slides)
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
