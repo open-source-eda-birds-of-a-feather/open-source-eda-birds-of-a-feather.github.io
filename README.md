@@ -20,7 +20,7 @@ This "Open-Source EDA and Benchmarking Summit" Birds-of-a-Feather meeting is the
   
 - Andreas Olofsson, Zero ASIC
 
-  - "SiliconCompiler" (slides)
+  - "SiliconCompiler" ([slides](<doc/slides/andreas_bof_dac2022.pdf>))
   
 - Johan Euphrosin, Google
   
