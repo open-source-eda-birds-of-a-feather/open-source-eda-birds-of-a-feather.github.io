@@ -10,13 +10,13 @@ This "Open-Source EDA and Benchmarking Summit" Birds-of-a-Feather meeting is the
 
 ### Welcome and Introduction 7:00pm
 
-- Intro slides with scribed notes from discussion segments (slides)
+- Intro slides with scribed notes from discussion segments ([slides](<./doc/slides/LIVE-NOTES-Open-Source EDA and Benchmarking Summit 2022.pdf>))
 
 ### Open-Source EDA 7:10pm
 
 - Tom Spyrou, UC San Diego and Precision Innovations
 
-  - "OpenROAD: 3 Years in Perspective" (slides)
+  - "OpenROAD: 3 Years in Perspective" ([slides](<doc/slides/DAC2022 birds of a feather open source EDA.pdf>))
   
 - Andreas Olofsson, Zero ASIC
 
@@ -28,19 +28,19 @@ This "Open-Source EDA and Benchmarking Summit" Birds-of-a-Feather meeting is the
   
 - Siang-Yun (Sonia) Lee, EPFL
 
-  - "Showcase and updates of the EPFL logic synthesis libraries ([https://github.com/lsils/lstools-showcase](https://github.com/lsils/lstools-showcase))" (slides)
+  - "Showcase and updates of the EPFL logic synthesis libraries ([https://github.com/lsils/lstools-showcase](https://github.com/lsils/lstools-showcase))" ([slides](<doc/slides/Sonia_2022_DAC_birds-of-a-feather_epfl-libs.pdf>))
 
 - Sakshi Garg, UCSC
 
-   - "LiveHD and Anubis" (slides)
+   - "LiveHD and Anubis" ([slides](<doc/slides/Sakshi_Garg_UCSC_liveHD_Anubis.pdf>))
 
 - Ulf Schlichtmann, TU Munich
  
-  - "System-level tools (e.g., Instruction Set Simulator) recently open-sourced" (slides)
+  - "System-level tools (e.g., Instruction Set Simulator) recently open-sourced" ([slides](<doc/slides/Ulf_2022_07_TUM_OpenSOurce_DAC US.pdf>))
 
 - Oron Port, DFiant
 
-  - "DFiant cloud solution that offers access to OSS EDA flows" (slides)
+  - "DFiant cloud solution that offers access to OSS EDA flows" ([slides](<doc/slides/Oron_DFiant Remote.pdf>))
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
@@ -52,15 +52,15 @@ This "Open-Source EDA and Benchmarking Summit" Birds-of-a-Feather meeting is the
 
 - Siang-Yun (Sonia) Lee, EPFL
 
-  - "New repository of benchmarks and best results targeting superconducting electronics ([https://github.com/lsils/SCE-benchmarks](https://github.com/lsils/SCE-benchmarks))"
+  - "New repository of benchmarks and best results targeting superconducting electronics ([https://github.com/lsils/SCE-benchmarks](https://github.com/lsils/SCE-benchmarks))" ([slides](<doc/slides/Sonia_2022_DAC_birds-of-a-feather_sce-benchmarks.pdf>))
   
 - Andrew Kahng, UCSD
 
-  - Efforts toward open data and benchmarking in the TILOS AI Institute: MacroPlacement and SpecPart"
+  - Efforts toward open data and benchmarking in the TILOS AI Institute: MacroPlacement and SpecPart" ([slides](<doc/slides/MacroPlacement-SpecPart-DAC-BOF-v5.pdf>))
   
 - Sergio Guadarrama, Google
 
-  - "Circuit Training ([https://github.com/google-research/circuit_training](https://github.com/google-research/circuit_training)), the open-source library for floorplanning using RL that my team and Google has open sourced recently as described in the 'A graph placement methodology for fast chip design' paper"
+  - "Circuit Training ([https://github.com/google-research/circuit_training](https://github.com/google-research/circuit_training)), the open-source library for floorplanning using RL that my team and Google has open sourced recently as described in the 'A graph placement methodology for fast chip design' paper" ([slides](<doc/slides/Part2-Talk4-Guadarrama.pdf>))
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
@@ -68,11 +68,11 @@ This "Open-Source EDA and Benchmarking Summit" Birds-of-a-Feather meeting is the
 
 - Antonino Tumeo, Pacific Northwest National Laboratory.  
 
-  - "Push for an Open Hardware Technology Commons in Coordination with the NIST National Semiconductor Technology Center"
+  - "Push for an Open Hardware Technology Commons in Coordination with the NIST National Semiconductor Technology Center" ([slides](<doc/slides/Antonino Tumeo_BOF.pdf>))
   
 - David Junkin, Cadence
 
-  - "How persons developing flows and other work products can share those with colleagues"
+  - "How persons developing flows and other work products can share those with colleagues" ([slides](<doc/slides/BOAF-Junkin-DAC-Presentation.pdf>))
   
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
