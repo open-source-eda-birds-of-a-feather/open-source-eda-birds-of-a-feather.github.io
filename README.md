@@ -140,6 +140,10 @@ I am curious to learn more about the OpenRoad initiative and open-source API sta
   
 - What’s the impact of OSS to chip design for the next 20 years.
 
+### Participants
+
+- Participant list (survey respondents and meeting attendees) 
+
 ### FAQs
 
 - Q: Is it possible to attend remotely?  
