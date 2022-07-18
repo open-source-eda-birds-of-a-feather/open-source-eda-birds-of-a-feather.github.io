@@ -142,7 +142,7 @@ I am curious to learn more about the OpenRoad initiative and open-source API sta
 
 ### Participants
 
-- Participant list (survey respondents and meeting attendees) 
+- [Participant list](doc/Participants.pdf) (survey respondents and meeting attendees) 
 
 ### FAQs
 
