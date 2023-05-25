@@ -19,7 +19,7 @@ Coming soon!!!
 There is no registration fee. However, please fill in [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeyzd9rCoGSq9jfT8C7Yo6bWbUiyZ6tlOZEN7vQ7REmlRMfSw/viewform) to indicate your interests and whether you would like to share something with other attendees.
 
 # Organization
-This year's session is being organized by [Ethan Mahintorabi](mailto:ethanmoon@google.com), [Tom Spyrou](mailto:aspyrou@eng.ucsd.edu) and [Andrew Kahng](mailto:abk@eng.ucsd.edu).
+This year's session is being organized by [Ethan Mahintorabi](mailto:ethanmoon@google.com) from Google, [Tom Spyrou](mailto:aspyrou@eng.ucsd.edu) from Precision Innovation and The OpenROAD Project, and [Andrew Kahng](mailto:abk@eng.ucsd.edu) from UC San Diego.
 
 # Previous Open-Source EDA Birds-of-a-Feather meetings
 - [DAC-2022](./README_2022.md)
