@@ -6,9 +6,9 @@ The "Advancing Open-Source EDA Innovation and Applications" Birds-of-a-Feather s
   1. The ecosystem of open-source EDA tools and industry partners.
   2. The use of open-source EDA tools in industrial applications and EWD (Education and Workforce Development).
   3. Advancing open-source EDA to drive innovation and leverage ML and Generative AI.
-  4. Goals for the community, along with current landscape, key updates, and potential next steps / actions for the worldwide academic/CAD community.
+  4. Goals, current landscape, key updates, and potential next steps / actions for the worldwide open-source EDA community.
   
-Potential contributors, developers, advisors, users … **Everyone is Welcome and Admission is Free for All !!!** (Please send email to [abk@eng.ucsd.edu](mailto:abk@eng.ucsd.edu) with any questions.)
+Potential contributors, developers, advisors, users … **Everyone is Welcome and Admission is Free for All !!!** (Please send email to [abk@ucsd.edu](mailto:abk@ucsd.edu) with any questions.)
 
 # AGENDA (tentative)
   
@@ -19,7 +19,7 @@ Coming soon!!!
 There is no registration fee. However, please fill in [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeyzd9rCoGSq9jfT8C7Yo6bWbUiyZ6tlOZEN7vQ7REmlRMfSw/viewform) to indicate your interests and whether you would like to share something with other attendees.
 
 # Organization
-This year's session is being organized by [Ethan Mahintorabi](mailto:ethanmoon@google.com) from Google, [Tom Spyrou](mailto:aspyrou@eng.ucsd.edu) from Precision Innovations and The OpenROAD Project, and [Andrew Kahng](mailto:abk@eng.ucsd.edu) from UC San Diego.
+This year's session is being organized by Ethan Mahintorabi ([ethanmoon@google.com](mailto:ethanmoon@google.com)) from Google, Tom Spyrou ([aspyrou@eng.ucsd.edu](mailto:aspyrou@eng.ucsd.edu)) from Precision Innovations and The OpenROAD Project, and Andrew Kahng ([abk@ucsd.edu](mailto:abk@ucsd.edu)) from UC San Diego.
 
 # Previous Open-Source EDA Birds-of-a-Feather meetings
 - [DAC-2022](./README_2022.md)
