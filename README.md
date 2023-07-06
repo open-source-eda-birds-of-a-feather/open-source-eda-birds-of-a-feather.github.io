@@ -11,8 +11,56 @@ The "Advancing Open-Source EDA Innovation and Applications" Birds-of-a-Feather s
 Potential contributors, developers, advisors, users … **Everyone is Welcome and Admission is Free for All !!!** (Please send email to [abk@ucsd.edu](mailto:abk@ucsd.edu) with any questions.)
 
 # AGENDA (tentative)
+
+Some speakers are still being finalized, and may not appear in the agenda quite yet.
   
-Coming soon!!!
+### Welcome and Introduction 6:00pm
+
+- Intro slides with Ethan Mahintorabi (Google)
+
+### Industrial Adoption of Open Source ~6:15pm
+
+- Tom Spyrou, Andrew B. Kahng, UC San Diego and Precision Innovations
+  - "State and Directions for OS EDA + OpenROAD initiative transition from DARPA"
+  
+- Karan Singh, Umar Shah, Amazon Web Services
+  - AWS - OpenEDA on the Cloud
+  
+- Mehdi Saligane, University of Michigan
+  - Building Confidence in Open IC Design using OpenFASOC
+
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
+
+### Workforce Development  ~7:15pm
+
+- Jim Burnham, Silicon Valley CTE High School
+  - VLSI Design in High School Classrooms
+
+- Andrew Wright, Efabless
+  - Taping Out Open Source Silicon in Practice
+
+- Matthew Guthaus, University of Santa Cruz
+  - OpenRAM and Applications (Open Source SRAM Compiler)
+
+### Updates and New Directions in Open Source ~8:00PM
+
+- Alain Dargelais, RapidSilicon
+  - System Verilog Parsing in Practice (Surelog)
+
+- Rongjian Liang, Nvidia ~8:30PM
+  - CircuitOps and AutoDMP (GenAI and Macro Placement)
+
+- Mircea R. Stan, University of Virginia
+  - Thermal Modeling, NSF POSE
+
+- Antonino Tumeo, Pacific Northwest National Laboratory
+  -  SODA a High Level Synthesizer
+
+- Andreas Olofsson, Zero ASIC
+  - Silicon Compiler Update
+
+- Sameer Shende, University Oregon
+  - E4S: A Platform for EDA on Commercial Cloud Platforms
 
 # Registration
   
