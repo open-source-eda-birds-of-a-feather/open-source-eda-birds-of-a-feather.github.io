@@ -21,9 +21,9 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 ### Industrial Adoption of Open Source ~6:15pm
 
 - Tom Spyrou, Andrew B. Kahng, UC San Diego and Precision Innovations
-  - "State and Directions for OS EDA + OpenROAD initiative transition from DARPA with latchup parts"
+  - "State and Directions for OS EDA + OpenROAD initiative transition from DARPA"
   
-- Karan Singh, Amazon Web Services
+- Karan Singh, Umar Shah, Amazon Web Services
   - AWS - OpenEDA on the Cloud
   
 - Mehdi Saligane, University of Michigan
@@ -56,8 +56,11 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 - Antonino Tumeo, Pacific Northwest National Laboratory
   -  SODA a High Level Synthesizer
 
-- Andreas Olofsson, Zero Asic
+- Andreas Olofsson, Zero ASIC
   - Silicon Compiler Update
+
+- Sameer Shende, University Oregon
+  - E4S: A Platform for EDA on Commercial Cloud Platforms
 
 # Registration
   
