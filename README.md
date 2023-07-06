@@ -64,6 +64,9 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 - Matthew Guthaus, University of Santa Cruz
   - OpenRAM and Applications (Open Source SRAM Compiler)
 
+- Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google)
+  - Architecture 2.0: Challenges and Opportunities with ML-Aided Design
+
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
 # Registration
