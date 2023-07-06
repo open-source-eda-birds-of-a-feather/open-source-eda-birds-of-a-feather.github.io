@@ -31,7 +31,7 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
-### Workforce Development  ~7:15pm
+### Workforce Development  ~7:00pm
 
 - Jim Burnham, Silicon Valley CTE High School
   - VLSI Design in High School Classrooms
@@ -39,15 +39,14 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 - Andrew Wright, Efabless
   - Taping Out Open Source Silicon in Practice
 
-- Matthew Guthaus, University of Santa Cruz
-  - OpenRAM and Applications (Open Source SRAM Compiler)
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
-### Updates and New Directions in Open Source ~8:00PM
+### Updates and New Directions in Open Source ~7:35PM
 
 - Alain Dargelais, RapidSilicon
   - System Verilog Parsing in Practice (Surelog)
 
-- Rongjian Liang, Nvidia ~8:30PM
+- Rongjian Liang, Nvidia
   - CircuitOps and AutoDMP (GenAI and Macro Placement)
 
 - Mircea R. Stan, University of Virginia
@@ -61,6 +60,11 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Sameer Shende, University Oregon
   - E4S: A Platform for EDA on Commercial Cloud Platforms
+
+- Matthew Guthaus, University of Santa Cruz
+  - OpenRAM and Applications (Open Source SRAM Compiler)
+
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
 # Registration
   
