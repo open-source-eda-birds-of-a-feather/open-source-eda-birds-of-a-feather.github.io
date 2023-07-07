@@ -61,8 +61,8 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 - Sameer Shende, University Oregon
   - E4S: A Platform for EDA on Commercial Cloud Platforms
 
-- Matthew Guthaus, University of Santa Cruz
-  - OpenRAM and Applications (Open Source SRAM Compiler)
+- Matthew Guthaus, University of California, Santa Cruz
+  - OpenRAM Open-Silicon: Current Results and Future Plans.
 
 - Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google)
   - Architecture 2.0: Challenges and Opportunities with ML-Aided Design
