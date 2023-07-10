@@ -31,15 +31,20 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
-### Workforce Development  ~7:00pm
+### Education & Workforce Development  ~7:00pm
 
 - Jim Burnham, Silicon Valley CTE High School
   - VLSI Design in High School Classrooms
 
-- Andrew Wright, Efabless
-  - Taping Out Open Source Silicon in Practice
+- Matthew Guthaus, University of California, Santa Cruz
+  - OpenRAM Open-Silicon: Current Results and Future Plans.
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
+
+### Bridge Talk
+
+- Andrew Wright, Efabless
+  - Taping Out Open Source Silicon in Practice
 
 ### Updates and New Directions in Open Source ~7:35PM
 
@@ -49,11 +54,8 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 - Rongjian Liang, Nvidia
   - CircuitOps and AutoDMP (GenAI and Macro Placement)
 
-- Mircea R. Stan, University of Virginia
-  - Thermal Modeling, NSF POSE
-
-- Antonino Tumeo, Pacific Northwest National Laboratory
-  -  SODA a High Level Synthesizer
+- Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google)
+  - Architecture 2.0: Challenges and Opportunities with ML-Aided Design
 
 - Andreas Olofsson, Zero ASIC
   - Silicon Compiler Update
@@ -61,11 +63,12 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 - Sameer Shende, University Oregon
   - E4S: A Platform for EDA on Commercial Cloud Platforms
 
-- Matthew Guthaus, University of California, Santa Cruz
-  - OpenRAM Open-Silicon: Current Results and Future Plans.
+- Antonino Tumeo, Pacific Northwest National Laboratory
+  -  SODA a High Level Synthesizer
 
-- Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google)
-  - Architecture 2.0: Challenges and Opportunities with ML-Aided Design
+- Mircea R. Stan, University of Virginia
+  - Thermal Modeling, NSF POSE
+
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
 
