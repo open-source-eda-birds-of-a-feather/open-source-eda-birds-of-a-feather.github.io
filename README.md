@@ -18,59 +18,64 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Intro slides with Ethan Mahintorabi (Google)
 
-### Industrial Adoption of Open Source ~6:15pm
+### Industrial Adoption of Open Source ~6:05pm
 
-- Tom Spyrou, Andrew B. Kahng, UC San Diego and Precision Innovations
-  - "State and Directions for OS EDA + OpenROAD initiative transition from DARPA"
+- Tom Spyrou, Andrew B. Kahng, UC San Diego and Precision Innovations **~6:05pm**
+  - "State and Directions for OS EDA + OpenROAD initiative transition from DARPA" 
   
-- Karan Singh, Umar Shah, Amazon Web Services
+- Karan Singh, Umar Shah, Amazon Web Services **~6:15pm**
   - AWS - OpenEDA on the Cloud
   
-- Mehdi Saligane, University of Michigan
+- Mehdi Saligane, University of Michigan **~6:25pm**
   - Building Confidence in Open IC Design using OpenFASOC
 
-- Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
+- Michael Gielda, Antmicro **~6:35pm**
+  - Leveraging Open Source in Industry
 
-### Education & Workforce Development  ~7:00pm
-
-- Jim Burnham, Silicon Valley CTE High School
-  - VLSI Design in High School Classrooms
-
-- Matthew Guthaus, University of California, Santa Cruz
-  - OpenRAM Open-Silicon: Current Results and Future Plans.
-
-- Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
-
-### Bridge Talk
-
-- Andrew Wright, Efabless
+- Andrew Wright, Efabless **~6:40pm**
   - Taping Out Open Source Silicon in Practice
 
-### Updates and New Directions in Open Source ~7:35PM
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~6:50pm**
 
-- Alain Dargelais, RapidSilicon
+### Updates and New Directions in Open Source (Section A) ~7:00PM
+
+- Alain Dargelais, RapidSilicon **~7:00pm**
   - System Verilog Parsing in Practice (Surelog)
 
-- Rongjian Liang, Nvidia
-  - CircuitOps and AutoDMP (GenAI and Macro Placement)
-
-- Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google)
+- Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google) **~7:10pm**
   - Architecture 2.0: Challenges and Opportunities with ML-Aided Design
 
-- Andreas Olofsson, Zero ASIC
+- Rongjian Liang, Nvidia **~7:20pm**
+  - CircuitOps and AutoDMP (GenAI and Macro Placement)
+
+- Andreas Olofsson, Zero ASIC **~7:30pm**
   - Silicon Compiler Update
 
-- Sameer Shende, University Oregon
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~7:40pm**
+
+### Education & Workforce Development  ~7:50pm
+
+- Jim Burnham, Silicon Valley CTE High School **~7:50pm**
+  - VLSI Design in High School Classrooms
+
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~8:00pm**
+
+### Updates and New Directions in Open Source (Section B) ~8:10
+
+- Matthew Guthaus, University of California, Santa Cruz **~8:10pm**
+  - OpenRAM Open-Silicon: Current Results and Future Plans.
+
+- Sameer Shende, University Oregon **~8:20pm**
   - E4S: A Platform for EDA on Commercial Cloud Platforms
 
-- Antonino Tumeo, Pacific Northwest National Laboratory
+- Antonino Tumeo, Pacific Northwest National Laboratory **~8:30pm**
   -  SODA a High Level Synthesizer
 
-- Mircea R. Stan, University of Virginia
+- Mircea R. Stan, University of Virginia **~8:40pm**
   - Thermal Modeling, NSF POSE
 
 
-- Late-Breaking News and Discussion (what next, what is needed, who can contribute …)
+- Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~8:50pm**
 
 # Registration
   
