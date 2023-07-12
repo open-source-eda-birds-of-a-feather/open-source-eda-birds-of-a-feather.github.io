@@ -18,7 +18,7 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Intro slides with Ethan Mahintorabi (Google)
 
-### Industrial Adoption of Open Source ~6:10pm
+### Industrial Adoption of Open Source ~6:05pm
 
 - Tom Spyrou, Andrew B. Kahng, UC San Diego and Precision Innovations **~6:05pm**
   - "State and Directions for OS EDA + OpenROAD initiative transition from DARPA" 
