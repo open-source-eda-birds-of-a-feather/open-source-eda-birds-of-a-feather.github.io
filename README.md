@@ -39,7 +39,7 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 ### Updates and New Directions in Open Source (Section A) ~7:00PM
 
-- Alain Dargelais, RapidSilicon **~7:00pm**
+- Alain Dargelas, RapidSilicon **~7:00pm**
   - System Verilog Parsing in Practice (Surelog)
 
 - Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google) **~7:10pm**
