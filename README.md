@@ -22,18 +22,23 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Tom Spyrou, Andrew B. Kahng, UC San Diego and Precision Innovations **~6:05pm**
   - "State and Directions for OS EDA + OpenROAD initiative transition from DARPA" 
+  - [Slides](./doc/slides_2023/DAC%202023%20Spyrou%20Birds%20of%20a%20Feather.pptx)
   
 - Karan Singh, Umar Shah, Amazon Web Services **~6:15pm**
   - AWS - OpenEDA on the Cloud
+  - [Slides](./doc/slides_2023/bof-opensource-dac-2023.pdf)
   
 - Mehdi Saligane, University of Michigan **~6:25pm**
   - Building Confidence in Open IC Design using OpenFASOC
+  - [Slides](./doc/slides_2023/%5BBoF%2012th%20July%202023%5D%20OpenFASOC_%20Building%20Confidence%20in%20Open%20IC%20Design.pdf)
 
 - Michael Gielda, Antmicro **~6:35pm**
   - Leveraging Open Source in Industry
+  - [Slides](./doc/slides_2023/Open%20source%20EDA%20BOF_%20industry%20adoption.pdf)
 
 - Andrew Wright, Efabless **~6:40pm**
   - Taping Out Open Source Silicon in Practice
+  - [Slides](./doc/slides_2023/Efabless2023DACv2final.pdf)
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~6:50pm**
 
@@ -41,15 +46,20 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Alain Dargelas, RapidSilicon **~7:00pm**
   - System Verilog Parsing in Practice (Surelog)
+  - [Slides](./doc/slides_2023/Surelog%20-%20DAC%202023.pdf)
 
 - Vijay Janapa Reddi, Amir Yazdanbakhsh, (Harvard, Google) **~7:10pm**
   - Architecture 2.0: Challenges and Opportunities with ML-Aided Design
+  - [Slides](./doc/slides_2023/Arch%202.0%20-%20Short%20version.pdf)
 
 - Rongjian Liang, Nvidia **~7:20pm**
   - CircuitOps and AutoDMP (GenAI and Macro Placement)
+  - [Slides](./doc/slides_2023/Nvidia.pdf)
 
 - Andreas Olofsson, Zero ASIC **~7:30pm**
   - Silicon Compiler Update
+  - [Slides](./doc/slides_2023/za_siliconcompiler_bof_v1.pdf)
+
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~7:40pm**
 
@@ -57,6 +67,7 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Jim Burnham, Silicon Valley CTE High School **~7:50pm**
   - VLSI Design in High School Classrooms
+  - Slides / TBD
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~8:00pm**
 
@@ -64,15 +75,19 @@ Some speakers are still being finalized, and may not appear in the agenda quite 
 
 - Matthew Guthaus, University of California, Santa Cruz **~8:10pm**
   - OpenRAM Open-Silicon: Current Results and Future Plans.
+  - [Slides](./doc/slides_2023/Guthaus-DAC-BoaF-2023.pdf)
 
 - Sameer Shende, University Oregon **~8:20pm**
   - E4S: A Platform for EDA on Commercial Cloud Platforms
+  - [Slides](./doc/slides_2023/E4S_DAC23.pdf)
 
 - Antonino Tumeo, Pacific Northwest National Laboratory **~8:30pm**
   -  SODA a High Level Synthesizer
+  - Slides / TDB
 
 - Mircea R. Stan, University of Virginia **~8:40pm**
   - Thermal Modeling, NSF POSE
+  - [Slides](./doc/slides_2023/Mircea_BoFOS_Thermals.pdf)
 
 
 - Late-Breaking News and Discussion (what next, what is needed, who can contribute …) **~8:50pm**
