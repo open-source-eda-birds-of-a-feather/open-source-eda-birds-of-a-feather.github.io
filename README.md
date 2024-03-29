@@ -20,7 +20,7 @@ Coming soon!!!
 Coming soon!!! But, attendance will be free (zero cost) and, as in the past, no DAC badge will be needed to enter the meeting.
 
 # Organization
-It takes a village! The volunteer co-organizers this year include Mohamed Kassem (Efabless), [Ethan Mahintorabi](mailto:ethanmoon@google.com) (Google), Tom Spyrou (Precision Innovations) and Tsung-Wei Huang (U. Wisconsin). If you would like to help with co-organization or support for this meeting (A/V, food, other logistics :smile:) please contact Andrew Kahng (UCSD) at [abk@ucsd.edu](mailto:abk@ucsd.edu).
+It takes a village! The volunteer co-organizers this year include Mohamed Kassem (Efabless), [Ethan Mahintorabi](mailto:ethanmoon@google.com) (Google), Tom Spyrou (Precision Innovations) and Tsung-Wei Huang (U. Wisconsin). If you would like to help with co-organization or support for this meeting (A/V, food, other logistics :-)) please contact Andrew Kahng (UCSD) at [abk@ucsd.edu](mailto:abk@ucsd.edu).
 
 
 # Previous Open-Source EDA Birds-of-a-Feather meetings
