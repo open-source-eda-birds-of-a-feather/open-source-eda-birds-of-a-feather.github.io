@@ -13,11 +13,72 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 # AGENDA (tentative)
 
-Coming soon!!!
+### I. Opening [6:30PM - 6:40PM]
+ - **Welcome and Introduction**
+    - Andrew B. Kahng, UCSD / Ethan Mahintorabi, Google
+
+### Open-Source EDA: High-Level Updates [6:40 PM - 7:15 PM]
+
+- **Update on OpenROAD and the OpenROAD Initiative**
+    - Tom Spyrou, Precision Innovations Inc.
+
+- **iEDA: An open-source EDA infrastructure and toolchain**
+    - Prof. Xingquan Li, Peng Cheng Laboratory, China
+
+- **ChipFlow: Introduction and Progress Update**
+    - Michel Laudes, ChipFlow, UK
+
+- **Open-source EDA efforts in Germany: AI HW-SW Co-design and Other Projects**
+    - Prof. Mehdi Tahoori, Karlsruhe Institute of Technology, Germany
+
+- **Building OS ecosystem from brilliant ideas to production products: “Walking to Running”**
+    - Andrew Wright, Efabless
+
+### Q\&A  Session [7:15 PM - 7:30 PM]
+
+### II. Open-Source EDA: Additional Updates [7:30 PM - 8:00 PM]
+- **Federated Learning Framework for Privacy-Preserving ML-EDA**
+    - Prof. Seokhyeong Kang, Pohang Institute of Science and Technology, South Korea
+- **GPU-acceleration in OpenROAD: An Update**
+    - Dr. Zhiang Wang, UCSD
+- **Open-Source Thermal Modeling Tools**
+    - Prof. Ayse Coskun, Boston University
+    - Prof. Sherief Reda, Brown University
+- **Workshop on Open-Source EDA Technologies (WOSET) - Open-Source for Community and Reproducibility**
+    - Prof. Matthew Guthaus
+- **Clean up your EDA flows with tclint**
+    - Noah Moroze, zeroRISC
+
+### Q\&A Session [8:00 PM - 8:15PM]
+
+### III. Machine Learning, Data [8:15 PM - 8:40 PM]
+- **CircuitNet Dataset for ML in EDA: Where are We and Where to Go**
+    - Prof. Yibo Lin (Peking University, China)
+- **EDA-Schema: Status and Plans**
+    - Ioannis Savidis, Drexel Univ.
+- **The SLICE Initiative: Towards a Shared Infrastructure for ML EDA**
+    - Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
+- **Laying the Foundations for LLMs in Open-source EDA**
+    - Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
+
+
+### IV. Community Goals, Open Discussion [8:40 PM - 9:30 PM]
+- **Need for openness in semiconductor / chip design / EDA, education, and AI**
+    - Rob Mains, CHIPS Alliance
+- **Discussion: Community Goals**
+    - **EDA Targets (Gaps in Open-Source)**
+    - **Data/Benchmarks and Proxies**
+    - **Calibrations**
+- **Discussion: Collaboration**
+
+### V. Post-Meeting Refreshments (outside of meeting room, provided by CHIPS Alliance)
+
+
 
 # Registration
   
-Coming soon!!! But, attendance will be free (zero cost) and, as in the past, no DAC badge will be needed to enter the meeting.
+There is no registration fee. However, please fill in [this Google Form](https://forms.gle/s3wwP5kPEH5kriuu8) to indicate your interests and whether you would like to share something with other attendees.
+
 
 # Organization
 It takes a village! The volunteer co-organizers this year include Mohamed Kassem (Efabless), Ethan Mahintorabi (Google), Tom Spyrou (Precision Innovations) and Tsung-Wei Huang (U. Wisconsin). If you would like to help with co-organization or support for this meeting (A/V, food, other logistics :-)) please contact Andrew Kahng (UCSD) at [abk@ucsd.edu](mailto:abk@ucsd.edu).
