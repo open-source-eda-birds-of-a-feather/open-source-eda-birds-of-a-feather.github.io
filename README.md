@@ -17,7 +17,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
  - **Welcome and Introduction**
     - Andrew B. Kahng, UCSD / Ethan Mahintorabi, Google
 
-### Open-Source EDA: High-Level Updates [6:40 PM - 7:15 PM]
+### II. Open-Source EDA: High-Level Updates [6:40 PM - 7:15 PM]
 
 - **Update on OpenROAD and the OpenROAD Initiative**
     - Tom Spyrou, Precision Innovations Inc.
@@ -36,7 +36,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 ### Q\&A  Session [7:15 PM - 7:30 PM]
 
-### II. Open-Source EDA: Additional Updates [7:30 PM - 8:00 PM]
+### III. Open-Source EDA: Additional Updates [7:30 PM - 8:00 PM]
 - **Federated Learning Framework for Privacy-Preserving ML-EDA**
     - Prof. Seokhyeong Kang, Pohang Institute of Science and Technology, South Korea
 - **GPU-acceleration in OpenROAD: An Update**
@@ -51,7 +51,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 ### Q\&A Session [8:00 PM - 8:15PM]
 
-### III. Machine Learning, Data [8:15 PM - 8:40 PM]
+### IV. Machine Learning, Data [8:15 PM - 8:40 PM]
 - **CircuitNet Dataset for ML in EDA: Where are We and Where to Go**
     - Prof. Yibo Lin (Peking University, China)
 - **EDA-Schema: Status and Plans**
@@ -62,7 +62,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
     - Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
 
 
-### IV. Community Goals, Open Discussion [8:40 PM - 9:30 PM]
+### V. Community Goals, Open Discussion [8:40 PM - 9:30 PM]
 - **Need for openness in semiconductor / chip design / EDA, education, and AI**
     - Rob Mains, CHIPS Alliance
 - **Discussion: Community Goals**
@@ -71,7 +71,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
     - **Calibrations**
 - **Discussion: Collaboration**
 
-### V. Post-Meeting Refreshments (outside of meeting room, provided by CHIPS Alliance)
+### VI. Post-Meeting Refreshments (outside of meeting room, provided by CHIPS Alliance)
 
 
 
