@@ -34,7 +34,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **Building OS ecosystem from brilliant ideas to production products: “Walking to Running”**
     - Andrew Wright, Efabless
 
-### Q\&A  Session [7:15 PM - 7:30 PM]
+### Q&A  Session [7:15 PM - 7:30 PM]
 
 ### III. Open-Source EDA: Additional Updates [7:30 PM - 8:00 PM]
 - **Federated Learning Framework for Privacy-Preserving ML-EDA**
@@ -49,17 +49,17 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **Clean up your EDA flows with tclint**
     - Noah Moroze, zeroRISC
 
-### Q\&A Session [8:00 PM - 8:15PM]
+### Q&A Session [8:00 PM - 8:15PM]
 
 ### IV. Machine Learning, Data [8:15 PM - 8:40 PM]
 - **CircuitNet Dataset for ML in EDA: Where are We and Where to Go**
     - Prof. Yibo Lin (Peking University, China)
 - **EDA-Schema: Status and Plans**
-    - Ioannis Savidis, Drexel Univ.
+    - Prof. Ioannis Savidis, Drexel Univ.
 - **The SLICE Initiative: Towards a Shared Infrastructure for ML EDA**
-    - Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
+    - Prof. Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
 - **Laying the Foundations for LLMs in Open-source EDA**
-    - Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
+    - Prof. Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
 
 
 ### V. Community Goals, Open Discussion [8:40 PM - 9:30 PM]
