@@ -54,7 +54,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### IV. Machine Learning, Data [8:15 PM - 8:40 PM]
 - **CircuitNet Dataset for ML in EDA: Where are We and Where to Go**
     - Prof. Yibo Lin (Peking University, China)
-- **EDA-Schema: Status and Plans**
+- **EDA-Learn: A Framework and Open Dataset for ML in Design**
     - Prof. Ioannis Savidis, Drexel Univ.
 - **The SLICE Initiative: Towards a Shared Infrastructure for ML EDA**
     - Prof. Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
