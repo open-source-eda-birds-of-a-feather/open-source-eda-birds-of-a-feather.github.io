@@ -66,7 +66,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **CircuitNet Dataset for ML in EDA: Where are We and Where to Go**
     - Prof. Yibo Lin (Peking University, China)
     - [Slides](./doc/slides_2024/DAC2024_BOF_CircuitNet.pdf)
-- **EDA-Schema: Status and Plans**
+- **EDA-Learn: A Framework and Open Dataset for ML in Design**
     - Prof. Ioannis Savidis, Drexel Univ.
     - [Slides](./doc/slides_2024/DAC-Birds-of-feathers%20(Savidis).pdf)
 - **The SLICE Initiative: Towards a Shared Infrastructure for ML EDA**
