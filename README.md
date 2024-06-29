@@ -15,56 +15,72 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 ### I. Opening [6:30PM - 6:40PM]
  - **Welcome and Introduction**
-    - Andrew B. Kahng, UCSD / Ethan Mahintorabi, Google
+    - Andrew B. Kahng, UCSD / Ethan Mahintorabi, Google 
+    - [Slides](./doc/slides_2024/Open-Source%20EDA%202024%20Birds-of-a-Feather%20Welcome.pdf)
 
 ### II. Open-Source EDA: High-Level Updates [6:40 PM - 7:15 PM]
 
 - **Update on OpenROAD and the OpenROAD Initiative**
-    - Tom Spyrou, Precision Innovations Inc.
+    - Tom Spyrou, Precision Innovations Inc. 
+    - [Slides](./doc/slides_2024/DAC%202024%20Spyrou%20Birds%20of%20a%20Feather.pdf)
 
 - **iEDA: An open-source EDA infrastructure and toolchain**
-    - Prof. Xingquan Li, Peng Cheng Laboratory, China
+    - Prof. Xingquan Li, Peng Cheng Laboratory, China 
+    - [Slides](./doc/slides_2024/DAC-BoF_iEDA.pdf)
 
 - **ChipFlow: Introduction and Progress Update**
     - Michel Laudes, ChipFlow, UK
+    - [Slides](./doc/slides_2024/ChipFlowDAC24v1.pdf)
 
 - **Open-source EDA efforts in Germany: AI HW-SW Co-design and Other Projects**
     - Prof. Mehdi Tahoori, Karlsruhe Institute of Technology, Germany
+    - [Slides](./doc/slides_2024/DAC24-open-source-EDA-DE.pdf)
 
 - **Building OS ecosystem from brilliant ideas to production products: “Walking to Running”**
     - Andrew Wright, Efabless
+    - [Slides](./doc/slides_2024/AndrewWrightBoaFDAC24v2.pdf)
 
 ### Q&A  Session [7:15 PM - 7:30 PM]
 
 ### III. Open-Source EDA: Additional Updates [7:30 PM - 8:00 PM]
 - **Federated Learning Framework for Privacy-Preserving ML-EDA**
     - Prof. Seokhyeong Kang, Pohang Institute of Science and Technology, South Korea
+    - [Slides](./doc/slides_2024/DAC2024_BoF_FedEDA.pdf)
 - **GPU-acceleration in OpenROAD: An Update**
     - Dr. Zhiang Wang, UCSD
+    - [Slides](./doc/slides_2024/DAC-BOF-Session-Zhiang-v3-speakernotes.pdf)
 - **Open-Source Thermal Modeling Tools**
     - Prof. Ayse Coskun, Boston University
     - Prof. Sherief Reda, Brown University
+    - [Slides](./doc/slides_2024/DAC24_BoF_Coskun.pdf)
 - **Workshop on Open-Source EDA Technologies (WOSET) - Open-Source for Community and Reproducibility**
     - Prof. Matthew Guthaus
+    - [Link](https://woset-workshop.github.io/)
 - **Clean up your EDA flows with tclint**
     - Noah Moroze, zeroRISC
+    - [Slides](./doc/slides_2024/tclint%20-%20DAC%20_24.pdf)
 
 ### Q&A Session [8:00 PM - 8:15PM]
 
 ### IV. Machine Learning, Data [8:15 PM - 8:40 PM]
 - **CircuitNet Dataset for ML in EDA: Where are We and Where to Go**
     - Prof. Yibo Lin (Peking University, China)
+    - [Slides](./doc/slides_2024/DAC2024_BOF_CircuitNet.pdf)
 - **EDA-Schema: Status and Plans**
     - Prof. Ioannis Savidis, Drexel Univ.
+    - [Slides](./doc/slides_2024/DAC-Birds-of-feathers%20(Savidis).pdf)
 - **The SLICE Initiative: Towards a Shared Infrastructure for ML EDA**
     - Prof. Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
+    - [Slides](./doc/slides_2024/SLICE-BoF-v2.pdf)
 - **Laying the Foundations for LLMs in Open-source EDA**
     - Prof. Vidya A. Chhabria (Bing-Yue Wu), Arizona State University
-
+    - [Slides](./doc/slides_2024/EDACorpus-BoF.pdf)
 
 ### V. Community Goals, Open Discussion [8:40 PM - 9:30 PM]
 - **Need for openness in semiconductor / chip design / EDA, education, and AI**
     - Rob Mains, CHIPS Alliance
+    - [Slides](./doc/slides_2024/Open%20Ecosystems%20DAC%202024%20BoF2.pdf)
+
 - **Discussion: Community Goals**
     - **EDA Targets (Gaps in Open-Source)**
     - **Data/Benchmarks and Proxies**
@@ -72,7 +88,6 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **Discussion: Collaboration**
 
 ### VI. Post-Meeting Refreshments (outside of meeting room, provided by CHIPS Alliance)
-
 
 
 # Registration
