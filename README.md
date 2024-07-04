@@ -89,6 +89,13 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 ### VI. Post-Meeting Refreshments (outside of meeting room, provided by CHIPS Alliance)
 
+### VII. Additional Contributions (late-breaking, with presenters also unable to attend)
+- **Agnostic HDL and Compiler**
+  - Antoine Sirianni, Paris
+  - [Slides](./doc/slides_2024/Antoine Sirianni - Paris - 20240619.pdf)
+- **Skill India: A Key to Self-Reliance**
+  - Prof. Gaurav Trivedi, IIT Guwahati
+  - [Slides](./doc/slides_2024/DAC2024_ABK_GT2.pdf), [Video](https://drive.google.com/file/d/1qm9Ge2MLP1M94z5pz31l8aHHj1Xirmqe/view)
 
 # Registration
   
