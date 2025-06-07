@@ -14,7 +14,6 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 # AGENDA (tentative)
 
 ### I. Opening [6:30PM - 6:40PM]
-
 - **Welcome and Introduction**
   - Andrew B. Kahng, UCSD
     
@@ -28,18 +27,61 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **Update on OpenROAD and The OpenROAD Initiative**
   - Tom Spyrou, Precision Innovations
 
-### III. Open-Source EDA: Additional Updates
-Coming soon!!!
+### III. Machine Learning and Data [7:10 PM - 7:30 PM]
+- **Standardizing Data Formats for Open-Source Model Sharing and Benchmarking**
+  - Ioannis Savidis, Drexel University
 
-### Q&A Session
+- **Review of Open Source and Data Developments: Infrastructure and LLMs**
+  - Vidya Chhabria, ASU
 
-### IV. Machine Learning, Data
-Coming soon!!!
+### IV. Advanced Packaging and Heterogeneous Integration [7:30 PM - 8:00 PM]
+- **Open Tools for Advanced Packaging STCO**
+  - Puneet Gupta,  UCLA
 
-### V. Community Goals, Open Discussion
-Coming soon!!!
+- **Open3DBench: Open-Source 3D-IC Backend Implementation and Benchmark Built upon OpenROAD**
+  - Yunqi Shi,  Nanjing University
 
-### VI. Post-Meeting Refreshments (outside of meeting room, provided by CHIPS Alliance)
+- **Revolutionize 3D Chip Design with Open3DFlow, An Open-source AI-enhanced Solution**
+  - Lei Ren, Tsinghua University
+
+### Break [8:00 PM - 8:15 PM] 
+
+### V. Updates from Community [8:15 PM - 8:45 PM]
+- **Recent Updates in and around Verilator for Architectural Exploration, Testing, Verification and Coverage Reporting**
+  - Michael Gielda, Antmicro
+
+- **Lessons Learned Implementing an FPGA in 12nm using OpenROAD**
+  - Peter Gadfort,  Zero Silicon
+
+- **GPU Accelerated, Open-source Timer and Logic Simulation Efforts**
+  - Yi-Chen Lu and Yanqing Zhang, NVIDIA
+
+### VI. Education and Workforce Development [8:45 PM - 9:15 PM]
+- **Open Source Hardware at ETH Zurich Supporting Education and Research**
+  - Marco Bertuletti, ETH Zürich
+
+- **Recent Experiences with OpenROAD- and IHP130/Croc-based Courses**
+  - Davit Markarian, UCSD  
+
+- **Optimize RISC-V Processors with iEDA in "One Student One Chip" Initiative**
+  - Zihao Yu, Institute of Computing Technology, Chinese Academy of Sciences
+
+
+### VII. Lightning Round (Late Contributions) and Discussions [9:15 PM - 9:30 PM]
+- **SODA and DeCoDe**
+  - Antonino Tumeo, PNNL
+  
+- **Vaporview - an open source waveform Viewer for VScode**
+  - Lloyd Ramseyer, Cognichip
+    
+- **Yosys-slang**
+  - Akash Levy, Silimate
+
+
+**Close / Hallway Discussions “Open-Source EDA, Data and Collaboration”**
+
+**(Note: As in previous years, we will try to find a restaurant/lounge for further conversations and sustenance after the meeting!)**
+
 
 # Registration
 There is no registration fee. However, please fill in [this Google Form](https://forms.gle/Xp9o7rtfrFihACqNA) to indicate your interests and whether you would like to share something with other attendees. **Also, an important note: This year, attendees MUST have some kind of DAC-2025 badge (the "I Love DAC" badge is free, but you must obtain it in advance!) in order to reach the meeting room. Please make sure that you obtain a badge so that you can attend!**
