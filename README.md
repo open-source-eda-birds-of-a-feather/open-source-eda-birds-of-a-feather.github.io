@@ -14,8 +14,10 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 # AGENDA (tentative)
 
 ### I. Opening [6:30PM - 6:40PM]
-Coming soon!!!
 
+- **Welcome and Introduction**
+  - Andrew B. Kahng, UCSD
+    
 ### II. Open-Source EDA: High-Level Updates
 Coming soon!!!
 
