@@ -51,7 +51,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
   - Michael Gielda, Antmicro
 
 - **Lessons Learned Implementing an FPGA in 12nm using OpenROAD**
-  - Peter Gadfort,  Zero Silicon
+  - Peter Gadfort,  Zero ASIC
 
 - **GPU Accelerated, Open-source Timer and Logic Simulation Efforts**
   - Yi-Chen Lu and Yanqing Zhang, NVIDIA
