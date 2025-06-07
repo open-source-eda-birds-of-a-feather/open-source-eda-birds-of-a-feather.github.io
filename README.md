@@ -18,8 +18,15 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **Welcome and Introduction**
   - Andrew B. Kahng, UCSD
     
-### II. Open-Source EDA: High-Level Updates
-Coming soon!!!
+### II. Open-Source EDA: Worldwide Efforts [6:40 PM - 7:10 PM]
+- **Recent Open Source Activities in Germany / Europe**
+  - Ulf Schlichtmann, Technical University of Munich 
+
+- **AiEDA: An Open-Source AI-Aided Design Library for Design-to-Vector**
+  - Xingquan Li, Pengcheng Laboratory
+    
+- **Update on OpenROAD and The OpenROAD Initiative**
+  - Tom Spyrou, Precision Innovations
 
 ### III. Open-Source EDA: Additional Updates
 Coming soon!!!
