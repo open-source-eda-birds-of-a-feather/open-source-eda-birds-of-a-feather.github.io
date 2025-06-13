@@ -81,6 +81,10 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
   - Joaquin Matres, GDSFactory
   - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/gdsfactory%20latchup%202025%20-%20Joaquin%20Matres.pdf), [Video](https://www.youtube.com/watch?v=us3pRlTQ2o4)
 
+- **YorChip**
+  - Kash Johal, YorChip
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/YorChipOpenRoadShort.pdf)
+
 
 **Close / Hallway Discussions “Open-Source EDA, Data and Collaboration”**
 
