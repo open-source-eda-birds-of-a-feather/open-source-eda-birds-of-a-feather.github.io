@@ -69,7 +69,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 ### VII. Lightning Round (Late Contributions) and Discussions [9:15 PM - 9:30 PM]
 - **SODA and DeCoDe**
-  - Antonino Tumeo, PNNL
+  - Ankur Limaye, PNNL
   
 - **Vaporview - an open source waveform Viewer for VScode**
   - Lloyd Ramseyer, Cognichip
