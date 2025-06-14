@@ -59,6 +59,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### VI. Education and Workforce Development [8:45 PM - 9:15 PM]
 - **Open Source Hardware at ETH Zurich Supporting Education and Research**
   - Marco Bertuletti, ETH Zürich
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/BOF25_PULP_mbertuletti.pdf)
 
 - **Recent Experiences with OpenROAD- and IHP130/Croc-based Courses**
   - Davit Markarian, UCSD  
