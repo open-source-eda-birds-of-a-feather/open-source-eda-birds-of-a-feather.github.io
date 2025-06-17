@@ -77,6 +77,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
     
 - **Yosys-slang**
   - Akash Levy, Silimate
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/yosys-slang-dac-bof.pdf)
 
 - **GDSFactory**
   - Joaquin Matres, GDSFactory
