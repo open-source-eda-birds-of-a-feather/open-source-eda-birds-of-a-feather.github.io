@@ -67,12 +67,15 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **Optimize RISC-V Processors with iEDA in "One Student One Chip" Initiative**
   - Zihao Yu, Institute of Computing Technology, Chinese Academy of Sciences
 
+- **Rescuing the SKY130 MPW Program**
+  - David Junkin, Cadence
+
 
 ### VII. Lightning Round (Late Contributions) and Discussions [9:15 PM - 9:30 PM]
 - **SODA and DeCoDe**
   - Ankur Limaye, PNNL
   
-- **Vaporview - an open source waveform Viewer for VScode**
+- **Vaporview - an Open Source Waveform Viewer for VScode**
   - Lloyd Ramseyer, Cognichip
     
 - **Yosys-slang**
