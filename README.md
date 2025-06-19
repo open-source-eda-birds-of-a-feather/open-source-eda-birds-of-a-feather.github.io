@@ -64,12 +64,11 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **Recent Experiences with OpenROAD- and IHP130/Croc-based Courses**
   - Davit Markarian, UCSD  
 
-- **Optimize RISC-V Processors with iEDA in "One Student One Chip" Initiative**
-  - Zihao Yu, Institute of Computing Technology, Chinese Academy of Sciences
-
 - **Rescuing the SKY130 MPW Program**
   - David Junkin, Cadence
 
+- **Optimize RISC-V Processors with iEDA in "One Student One Chip" Initiative**
+  - Zihao Yu, Institute of Computing Technology, Chinese Academy of Sciences
 
 ### VII. Lightning Round (Late Contributions) and Discussions [9:15 PM - 9:30 PM]
 - **SODA and DeCoDe**
