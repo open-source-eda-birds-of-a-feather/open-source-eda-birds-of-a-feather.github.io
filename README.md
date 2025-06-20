@@ -36,7 +36,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 ### IV. Advanced Packaging and Heterogeneous Integration [7:30 PM - 8:00 PM]
 - **Open Tools for Advanced Packaging STCO**
-  - Puneet Gupta,  UCLA
+  - Zhichao Chen,  UCLA
 
 - **Open3DBench: Open-Source 3D-IC Backend Implementation and Benchmark Built upon OpenROAD**
   - Yunqi Shi,  Nanjing University
