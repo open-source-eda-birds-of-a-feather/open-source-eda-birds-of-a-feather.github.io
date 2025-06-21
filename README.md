@@ -91,6 +91,10 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 - **YorChip**
   - Kash Johal, YorChip
   - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/YorChipOpenRoadShort.pdf)
+    
+- **It Takes a Community!**
+  - Mohamed Kassem, ChipFoundry
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/dac-2025-bof.kassem.pdf)
 
 
 **Close / Hallway Discussions “Open-Source EDA, Data and Collaboration”**
