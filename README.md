@@ -41,6 +41,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **Open3DBench: Open-Source 3D-IC Backend Implementation and Benchmark Built upon OpenROAD**
   - Yunqi Shi,  Nanjing University
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Open3DBench.pdf)
 
 - **Revolutionize 3D Chip Design with Open3DFlow, An Open-source AI-enhanced Solution**
   - Lei Ren, Tsinghua University
