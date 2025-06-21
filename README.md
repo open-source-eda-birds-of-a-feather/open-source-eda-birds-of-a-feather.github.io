@@ -71,6 +71,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **Optimize RISC-V Processors with iEDA in "One Student One Chip" Initiative**
   - Zihao Yu, Institute of Computing Technology, Chinese Academy of Sciences
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/One%20Student%20One%20Chip-en.pdf)
 
 ### VII. Lightning Round (Late Contributions) and Discussions [9:15 PM - 9:30 PM]
 - **SODA and DeCoDe**
