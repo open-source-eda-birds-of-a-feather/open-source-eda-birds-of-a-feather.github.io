@@ -23,6 +23,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **AiEDA: An Open-Source AI-Aided Design Library for Design-to-Vector**
   - Xingquan Li, Pengcheng Laboratory
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/25-DAC-BoF_iEDA-v2.pdf)
     
 - **Update on OpenROAD and The OpenROAD Initiative**
   - Tom Spyrou, Precision Innovations
