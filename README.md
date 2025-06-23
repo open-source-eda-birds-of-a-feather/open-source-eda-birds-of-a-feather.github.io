@@ -27,6 +27,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
     
 - **Update on OpenROAD and The OpenROAD Initiative**
   - Tom Spyrou, Precision Innovations
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC%202025%20Birds%20of%20a%20Feather%20-%20Spyrou%20(final).pdf)
 
 ### III. Machine Learning and Data [7:10 PM - 7:30 PM]
 - **Standardizing Data Formats for Open-Source Model Sharing and Benchmarking**
