@@ -46,6 +46,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **Revolutionize 3D Chip Design with Open3DFlow, An Open-source AI-enhanced Solution**
   - Lei Ren, Tsinghua University
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Open3DIC_2025DAC_LeiREN_Tsinghua.pdf)
 
 ### Break [8:00 PM - 8:15 PM] 
 
