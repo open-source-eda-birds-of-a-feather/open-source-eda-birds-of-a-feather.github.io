@@ -16,7 +16,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### I. Opening [6:30PM - 6:40PM]
 - **Welcome and Introduction**
   - Andrew B. Kahng, UCSD
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC-BOF-2025-Opening-v1.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC-BOF-2025-Opening-v1.pdf)
     
 ### II. Open-Source EDA: Worldwide Efforts [6:40 PM - 7:10 PM]
 - **Recent Open Source Activities in Germany / Europe**
@@ -24,16 +24,16 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **AiEDA: An Open-Source AI-Aided Design Library for Design-to-Vector**
   - Xingquan Li, Pengcheng Laboratory
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/25-DAC-BoF_iEDA-v2.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/25-DAC-BoF_iEDA-v2.pdf)
     
 - **Update on OpenROAD and The OpenROAD Initiative**
   - Tom Spyrou, Precision Innovations
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC%202025%20Birds%20of%20a%20Feather%20-%20Spyrou%20(final).pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC%202025%20Birds%20of%20a%20Feather%20-%20Spyrou%20(final).pdf)
 
 ### III. Machine Learning and Data [7:10 PM - 7:30 PM]
 - **Standardizing Data Formats for Open-Source Model Sharing and Benchmarking**
   - Ioannis Savidis, Drexel University
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Savidis_BOF.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Savidis_BOF.pdf)
 
 - **Review of Open Source and Data Developments: Infrastructure and LLMs**
   - Vidya Chhabria, ASU
@@ -41,40 +41,40 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### IV. Advanced Packaging and Heterogeneous Integration [7:30 PM - 8:00 PM]
 - **Open Tools for Advanced Packaging STCO**
   - Zhichao Chen,  UCLA
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/62DAC_BOE_YAP_CATCH_Zhichao_Chen.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/62DAC_BOE_YAP_CATCH_Zhichao_Chen.pdf)
 
 - **Open3DBench: Open-Source 3D-IC Backend Implementation and Benchmark Built upon OpenROAD**
   - Yunqi Shi,  Nanjing University
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Open3DBench.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Open3DBench.pdf)
 
 - **Revolutionize 3D Chip Design with Open3DFlow, An Open-source AI-enhanced Solution**
   - Lei Ren, Tsinghua University
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Open3DIC_2025DAC_LeiREN_Tsinghua.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Open3DIC_2025DAC_LeiREN_Tsinghua.pdf)
 
 ### Break [8:00 PM - 8:15 PM] 
-- [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC-BOF-2025-BREAK-v1a.pdf)
+- [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC-BOF-2025-BREAK-v1a.pdf)
 
 ### V. Updates from Community [8:15 PM - 8:45 PM]
 - **Recent Updates in and around Verilator for Architectural Exploration, Testing, Verification and Coverage Reporting**
   - Michael Gielda, Antmicro
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Recent%20updates%20in%20Verilator.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Recent%20updates%20in%20Verilator.pdf)
 
 - **Lessons Learned Implementing an FPGA in 12nm using OpenROAD**
   - Peter Gadfort,  Zero ASIC
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/2025DAC-BOF-Zero-ASIC.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/2025DAC-BOF-Zero-ASIC.pdf)
 
 - **GPU Accelerated, Open-source Timer and Logic Simulation Efforts**
   - Yi-Chen Lu and Yanqing Zhang, NVIDIA
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC2025_GPU%20AcceleratedOpen-sourceTimerAndLogicSimulationEfforts.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC2025_GPU%20AcceleratedOpen-sourceTimerAndLogicSimulationEfforts.pdf)
 
 ### VI. Education and Workforce Development [8:45 PM - 9:15 PM]
 - **Open Source Hardware at ETH Zurich Supporting Education and Research**
   - Marco Bertuletti, ETH Zürich
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/BOF25_PULP_mbertuletti.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/BOF25_PULP_mbertuletti.pdf)
 
 - **Recent Experiences with OpenROAD- and IHP130/Croc-based Courses**
   - Davit Markarian, UCSD
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC25%20Recent%20Experiences%20Markarian-v3a.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC25%20Recent%20Experiences%20Markarian-v3a.pdf)
   - [Additional links](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/dac25_markarian_redist.md)
 
 - **Rescuing the SKY130 MPW Program**
@@ -82,32 +82,32 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **Optimize RISC-V Processors with iEDA in "One Student One Chip" Initiative**
   - Zihao Yu, Institute of Computing Technology, Chinese Academy of Sciences
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/One%20Student%20One%20Chip-en.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/One%20Student%20One%20Chip-en.pdf)
 
 ### VII. Lightning Round (Late Contributions) and Discussions [9:15 PM - 9:30 PM]
 - **SODA and DeCoDe**
   - Ankur Limaye, PNNL
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/SODA_DeCoDe_AnkurLimaye.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/SODA_DeCoDe_AnkurLimaye.pdf)
   
 - **Vaporview - an Open Source Waveform Viewer for VScode**
   - Lloyd Ramseyer, Cognichip
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/vaporview_lloyd_ramseyer_dac_2025.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/vaporview_lloyd_ramseyer_dac_2025.pdf)
     
 - **Yosys-slang**
   - Akash Levy, Silimate
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/yosys-slang-dac-bof.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/yosys-slang-dac-bof.pdf)
 
 - **GDSFactory**
   - Joaquin Matres, GDSFactory
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/gdsfactory%20latchup%202025%20-%20Joaquin%20Matres.pdf), [Video](https://www.youtube.com/watch?v=us3pRlTQ2o4)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/gdsfactory%20latchup%202025%20-%20Joaquin%20Matres.pdf), [Video](https://www.youtube.com/watch?v=us3pRlTQ2o4)
 
 - **YorChip**
   - Kash Johal, YorChip
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/YorChipOpenRoadShort.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/YorChipOpenRoadShort.pdf)
     
 - **It Takes a Community!**
   - Mohamed Kassem, ChipFoundry
-  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/dac-2025-bof.kassem.pdf)
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/dac-2025-bof.kassem.pdf)
 
 
 **Close / Hallway Discussions “Open-Source EDA, Data and Collaboration”**
