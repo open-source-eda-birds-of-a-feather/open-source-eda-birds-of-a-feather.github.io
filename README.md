@@ -16,6 +16,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### I. Opening [6:30PM - 6:40PM]
 - **Welcome and Introduction**
   - Andrew B. Kahng, UCSD
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC-BOF-2025-Opening-v1.pdf)
     
 ### II. Open-Source EDA: Worldwide Efforts [6:40 PM - 7:10 PM]
 - **Recent Open Source Activities in Germany / Europe**
@@ -51,6 +52,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
   - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Open3DIC_2025DAC_LeiREN_Tsinghua.pdf)
 
 ### Break [8:00 PM - 8:15 PM] 
+- [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC-BOF-2025-BREAK-v1a.pdf)
 
 ### V. Updates from Community [8:15 PM - 8:45 PM]
 - **Recent Updates in and around Verilator for Architectural Exploration, Testing, Verification and Coverage Reporting**
