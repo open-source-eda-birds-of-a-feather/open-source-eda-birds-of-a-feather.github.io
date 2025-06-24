@@ -89,6 +89,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
   
 - **Vaporview - an Open Source Waveform Viewer for VScode**
   - Lloyd Ramseyer, Cognichip
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/vaporview_lloyd_ramseyer_dac_2025.pdf)
     
 - **Yosys-slang**
   - Akash Levy, Silimate
