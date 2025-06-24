@@ -57,6 +57,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **Lessons Learned Implementing an FPGA in 12nm using OpenROAD**
   - Peter Gadfort,  Zero ASIC
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/2025DAC-BOF-Zero-ASIC.pdf)
 
 - **GPU Accelerated, Open-source Timer and Logic Simulation Efforts**
   - Yi-Chen Lu and Yanqing Zhang, NVIDIA
