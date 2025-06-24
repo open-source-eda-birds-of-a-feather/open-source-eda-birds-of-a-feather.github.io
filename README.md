@@ -79,6 +79,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **Rescuing the SKY130 MPW Program**
   - David Junkin, Cadence
+  - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/BOAF-Junkin-DAC2025.pdf)
 
 - **Optimize RISC-V Processors with iEDA in "One Student One Chip" Initiative**
   - Zihao Yu, Institute of Computing Technology, Chinese Academy of Sciences
