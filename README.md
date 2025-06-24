@@ -54,6 +54,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### V. Updates from Community [8:15 PM - 8:45 PM]
 - **Recent Updates in and around Verilator for Architectural Exploration, Testing, Verification and Coverage Reporting**
   - Michael Gielda, Antmicro
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Recent%20updates%20in%20Verilator.pdf)
 
 - **Lessons Learned Implementing an FPGA in 12nm using OpenROAD**
   - Peter Gadfort,  Zero ASIC
