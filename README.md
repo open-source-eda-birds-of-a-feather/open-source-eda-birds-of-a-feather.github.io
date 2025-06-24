@@ -69,7 +69,9 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
   - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/BOF25_PULP_mbertuletti.pdf)
 
 - **Recent Experiences with OpenROAD- and IHP130/Croc-based Courses**
-  - Davit Markarian, UCSD  
+  - Davit Markarian, UCSD
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC25%20Recent%20Experiences%20Markarian-v3a.pdf)
+  - [Additional links](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/dac25_markarian_redist.md)
 
 - **Rescuing the SKY130 MPW Program**
   - David Junkin, Cadence
