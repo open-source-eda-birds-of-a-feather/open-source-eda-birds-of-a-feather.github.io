@@ -84,6 +84,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### VII. Lightning Round (Late Contributions) and Discussions [9:15 PM - 9:30 PM]
 - **SODA and DeCoDe**
   - Ankur Limaye, PNNL
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/SODA_DeCoDe_AnkurLimaye.pdf)
   
 - **Vaporview - an Open Source Waveform Viewer for VScode**
   - Lloyd Ramseyer, Cognichip
