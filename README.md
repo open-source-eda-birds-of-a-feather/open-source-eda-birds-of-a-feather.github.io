@@ -61,6 +61,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **GPU Accelerated, Open-source Timer and Logic Simulation Efforts**
   - Yi-Chen Lu and Yanqing Zhang, NVIDIA
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/DAC2025_GPU%20AcceleratedOpen-sourceTimerAndLogicSimulationEfforts.pdf)
 
 ### VI. Education and Workforce Development [8:45 PM - 9:15 PM]
 - **Open Source Hardware at ETH Zurich Supporting Education and Research**
