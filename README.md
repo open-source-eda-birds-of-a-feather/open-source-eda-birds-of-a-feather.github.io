@@ -32,6 +32,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 ### III. Machine Learning and Data [7:10 PM - 7:30 PM]
 - **Standardizing Data Formats for Open-Source Model Sharing and Benchmarking**
   - Ioannis Savidis, Drexel University
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Savidis_BOF.pdf)
 
 - **Review of Open Source and Data Developments: Infrastructure and LLMs**
   - Vidya Chhabria, ASU
