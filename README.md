@@ -35,7 +35,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
   - Ioannis Savidis, Drexel University
   - [Preliminary slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Savidis_BOF.pdf)
 
-- **Review of Open Source and Data Developments: Infrastructure and LLMs**
+- **Standardized ML EDA Data Pipelines with Ontology-driven Data Mapping**
   - Vidya Chhabria, ASU
 
 ### IV. Advanced Packaging and Heterogeneous Integration [7:30 PM - 8:00 PM]
