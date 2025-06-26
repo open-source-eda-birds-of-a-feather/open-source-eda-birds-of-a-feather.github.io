@@ -38,6 +38,7 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
 
 - **Standardized ML EDA Data Pipelines with Ontology-driven Data Mapping**
   - Vidya Chhabria, ASU
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/ASU-Drexel-Si2-ML-EDA-data-pipeline.pdf)
 
 ### IV. Advanced Packaging and Heterogeneous Integration [7:30 PM - 8:00 PM]
 - **Open Tools for Advanced Packaging STCO**
