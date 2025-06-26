@@ -20,7 +20,8 @@ Potential contributors, developers, advisors, users … **Everyone is Welcome an
     
 ### II. Open-Source EDA: Worldwide Efforts [6:40 PM - 7:10 PM]
 - **Recent Open Source Activities in Germany / Europe**
-  - Ulf Schlichtmann, Technical University of Munich 
+  - Ulf Schlichtmann, Technical University of Munich
+  - [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2025/Recent%20Open%20Source%20Activities%20in%20Germany.pdf)
 
 - **AiEDA: An Open-Source AI-Aided Design Library for Design-to-Vector**
   - Xingquan Li, Pengcheng Laboratory
