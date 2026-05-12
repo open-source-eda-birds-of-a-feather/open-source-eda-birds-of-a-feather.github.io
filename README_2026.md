@@ -8,7 +8,7 @@ Our goal is to have a fast-paced evening of rapid-fire presentations and dedicat
 
 By integrating workforce development into these modern workflows, we will discuss how the hardware and software design talent gap is being bridged by reshaping university curricula. In an era of agents and "Augmented AI," we must ask: how many new engineers are actually needed, and how does their training evolve when the "co-pilot" handles the baseline?
 
-The session will also provide critical state-of-the-ecosystem updates, including the latest on global open-source initiatives. We will conclude with The "Co-Pilot" Afterparty—an unstructured networking session with food and drinks to engage in unfiltered community debates. This BoF is designed as an open forum to surface challenges and find new collaborations.
+The session will also provide critical state-of-the-ecosystem updates, including the latest on global open-source initiatives. We will conclude with The "Co-Pilot" Afterparty—an unstructured networking session with food and drinks to engage in unfiltered community discussion. This BoF is designed as an open forum to surface challenges and find new collaborations.
 
 Everyone is welcome and admission is free\! (Please send an email to Yiting Liu (yil375@ucsd.edu) and/or Oleg Levitsky (olevitsky@precisioninno.com)  with any questions.)
 
