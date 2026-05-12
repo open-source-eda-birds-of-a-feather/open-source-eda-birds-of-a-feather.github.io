@@ -4,7 +4,7 @@ Tuesday, July 28, 2026,  6:30 PM – 9:30 PM |  Long Beach Convention Center, Ro
 
 This "Open-Source EDA, Data and Collaboration" Birds-of-a-Feather session is the seventh in a series that began at DAC 2018\. As semiconductor design confronts the mounting complexities of advanced nodes, Augmented AI is transitioning from an experimental concept to an indispensable engineering co-pilot. The DAC 2026 session explores the transformative intersection of AI, open-source software and hardware, and the engineers who build them, serving as an informal forum for anyone to share ideas and the latest updates on our open-source ecosystem.
 
-Our goal is to have a fast-paced evening of rapid-fire presentations and dedicated Q\&A panels from academic researchers, industry practitioners, and open-source maintainers. Topics of interest include Augmented AI in EDA—moving beyond traditional black-box hyperparameter search to include agentic workflows and AI-accelerated physical design—alongside updates on open-source ecosystem governance, robust PDK development, and open-source AMS design flows, plus insights into benchmarking and industrial usage.
+Our goal is to have a fast-paced evening of rapid-fire presentations and dedicated Q&A panels from academic researchers, industry practitioners, and open-source maintainers. Topics of interest include Augmented AI in EDA—moving beyond traditional black-box hyperparameter search to include agentic workflows and AI-accelerated physical design—alongside updates on open-source ecosystem governance, robust PDK development, and open-source AMS design flows, plus insights into benchmarking and industrial usage.
 
 By integrating workforce development into these modern workflows, we will discuss how the hardware and software design talent gap is being bridged by reshaping university curricula. In an era of agents and "Augmented AI," we must ask: how many new engineers are actually needed, and how does their training evolve when the "co-pilot" handles the baseline?
 
@@ -16,7 +16,7 @@ Everyone is welcome and admission is free\! (Please send an email to Yiting Liu 
 
 ### Time: 6:30 PM – 9:30 PM (Followed by Networking)
 
-Format: Short presentations (5-10 minutes), community updates, interactive Q\&A, and networking.
+Format: Short presentations (5-10 minutes), community updates, interactive Q&A, and networking.
 
 ---
 
@@ -29,30 +29,30 @@ Format: Short presentations (5-10 minutes), community updates, interactive Q\&A,
 
 * Presentations \[6:40 PM \- 7:00 PM\]:  
   * Topics of interest: community updates, rapid-fire presentations from academic and industry maintainers.  
-* Interactive Q\&A \[7:00 PM \- 7:15 PM\]: 15-minute panel Q\&A regarding community updates and tools.
+* Interactive Q&A \[7:00 PM \- 7:15 PM\]: 15-minute panel Q&A regarding community updates and tools.
 
 #### III. Augmented AI and Physical Design Workflows \[7:15 PM \- 7:55 PM\]
 
 * Presentations \[7:15 PM \- 7:40 PM\]:  
   * Topic of interest: emerging trends \- From black-box hyperparameter search to agentic workflows, AI-accelerated physical design,  industrial use cases and emerging trends.  
-* Interactive Q\&A \[7:40 PM \- 7:55 PM\]: 15-minute panel Q\&A with Session III speakers.
+* Interactive Q&A \[7:40 PM \- 7:55 PM\]: 15-minute panel Q&A with Session III speakers.
 
 #### IV. Open-Source Ecosystem & Infrastructure \[7:55 PM \- 8:35 PM\]
 
 * Presentations \[7:55 PM \- 8:20 PM\]:  
   * Topic of interest: robust PDK development, open-source AMS design flows, ecosystem governance initiatives and benchmarking standards.  
-* Interactive Q\&A \[8:20 PM \- 8:35 PM\]: 15-minute panel Q\&A with Session IV speakers.
+* Interactive Q&A \[8:20 PM \- 8:35 PM\]: 15-minute panel Q&A with Session IV speakers.
 
 #### V. Workforce Development and Training \[8:35 PM \- 9:15 PM\]
 
 * Presentations \[8:35 PM \- 9:00 PM\]:  
   * Topic of interest: bridging the hardware/software talent gap and reshaping university curricula and training engineers on modern open-source workflows.  
-* Interactive Q\&A \[9:00 PM \- 9:15 PM\]: 15-minute panel Q\&A with Session V speakers.
+* Interactive Q&A \[9:00 PM \- 9:15 PM\]: 15-minute panel Q&A with Session V speakers.
 
 #### VI. Lightning Round and Closing Remarks \[9:15 PM \- 9:30 PM\]
 
 * Open community forum to surface challenges and share experiences.  
-* Final Q\&A and wrap-up.
+* Final Q&A and wrap-up.
 
 #### VII. Post-Session Networking \[9:30 PM Onwards\]
 
