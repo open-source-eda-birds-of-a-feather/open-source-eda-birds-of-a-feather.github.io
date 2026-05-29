@@ -10,7 +10,7 @@ By integrating workforce development into these modern workflows, we will discus
 
 The session will also provide critical state-of-the-ecosystem updates, including the latest on global open-source initiatives. We will conclude with The "Co-Pilot" Afterparty—an unstructured networking session with food and drinks to engage in unfiltered community discussion. This BoF is designed as an open forum to surface challenges and find new collaborations.
 
-Everyone is welcome and admission is free\! (Please send an email to Yiting Liu (yil375@ucsd.edu) and/or Oleg Levitsky (olevitsky@precisioninno.com)  with any questions.)
+Everyone is welcome, and admission is free! (If you have any questions or require a visa support letter, please contact Yiting Liu (yil375@ucsd.edu) and/or Oleg Levitsky (olevitsky@precisioninno.com).)
 
 ### Agenda (Tentative): 
 
