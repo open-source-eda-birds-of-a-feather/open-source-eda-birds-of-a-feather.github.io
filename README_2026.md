@@ -1,6 +1,6 @@
 # Open-Source EDA Birds-of-a-Feather: Open-Source EDA, Data and Collaboration Summit  
 
-Tuesday, July 28, 2026,  6:30 PM – 9:30 PM |  Long Beach Convention Center, Room TBD
+Tuesday, July 28, 2026,  6:30 PM – 9:30 PM |  Long Beach Convention Center, Mtg Room 104C
 
 This "Open-Source EDA, Data and Collaboration" Birds-of-a-Feather session is the seventh in a series that began at DAC 2018\. As semiconductor design confronts the mounting complexities of advanced nodes, Augmented AI is transitioning from an experimental concept to an indispensable engineering co-pilot. The DAC 2026 session explores the transformative intersection of AI, open-source software and hardware, and the engineers who build them, serving as an informal forum for anyone to share ideas and the latest updates on our open-source ecosystem.
 
