@@ -12,51 +12,68 @@ The session will also provide critical state-of-the-ecosystem updates, including
 
 Everyone is welcome, and admission is free! (If you have any questions or require a visa support letter, please contact Yiting Liu (yil375@ucsd.edu) and/or Oleg Levitsky (olevitsky@precisioninno.com).)
 
-### Agenda (Tentative): 
+# Agenda (tentative)
 
-### Time: 6:30 PM – 9:30 PM (Followed by Networking)
+## I. Opening \[6:30 PM \- 6:40 PM\]
 
-Format: Short presentations (5-10 minutes), community updates, interactive Q&A, and networking.
+* **Welcome and Introduction**  
+  * Andrew B. Kahng, UCSD
 
----
+#### II. General Updates from the Community \[6:40 PM \- 7:10 PM\]
 
-#### I. Welcome and Introduction \[6:30 PM \- 6:40 PM\]
+* **Open Silicon in Action: What's New from CHIPS Alliance**  
+  * Michael Gielda, VP of Business Development at Antmicro  
+* **Update on OpenROAD and The OpenROAD Initiative**  
+  * Tom Spyrou, Precision Innovations  
+* **ECOS Studio: From Open PDKs to Open-Source SoC Tapeouts**  
+  * Tianji Liu, Institute of Computing Technology, Chinese Academy of Sciences
 
-* Opening remarks.
+#### III. Open-Source Ecosystem & Infrastructure \[7:10 PM \- 7:50 PM\]
 
+* **SCCAD-3N and OpenROAD Enablement for Open-Source Advanced-Node Design**  
+  * Sung Kyu Lim, USC   
+* **GT2N: An Open-Source 2nm Nanosheet PDK**  
+  * Dongwon Jang, Georgia Tech   
+* **Updates on 3D ODB**  
+  * Cho Moon, Precision Innovations  
+* **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
+  * Ishraq Tashdid, University of Central Florida 
 
-#### II. General Updates from the Community \[6:40 PM \- 7:15 PM\]
+Break \[7:50PM \- 8:00 PM\]
 
-* Presentations \[6:40 PM \- 7:00 PM\]:  
-  * Topics of interest: community updates, rapid-fire presentations from academic and industry maintainers.  
-* Interactive Q&A \[7:00 PM \- 7:15 PM\]: 15-minute panel Q&A regarding community updates and tools.
+#### IV. Augmented AI and Physical Design Workflows \[8:00 PM \- 8:40 PM\]
 
-#### III. Augmented AI and Physical Design Workflows \[7:15 PM \- 7:55 PM\]
+* **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
+  * Zhiyao Xie, HKUST  
+* **Benchmarking Standards for Open-Source EDA Infrastructure**  
+  * Ioannis Savidis, Drexel University   
+* **Four-State Logic and Verification Support in Verilator**  
+  * Krzysztof Bieganski, Antmicro/ CHIPS Alliance   
+* **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
+  * Akash Levy, Silimate
 
-* Presentations \[7:15 PM \- 7:40 PM\]:  
-  * Topic of interest: emerging trends \- From black-box hyperparameter search to agentic workflows, AI-accelerated physical design,  industrial use cases and emerging trends.  
-* Interactive Q&A \[7:40 PM \- 7:55 PM\]: 15-minute panel Q&A with Session III speakers.
+#### V. Workforce Development and Training \[8:40 PM \- 9:00 PM\]
 
-#### IV. Open-Source Ecosystem & Infrastructure \[7:55 PM \- 8:35 PM\]
+* **Open-Source EDA and PDKs for Teaching and Research in the PULP Group**  
+  * Arpan Suravi Prasad, ETH Zurich / PULP Group   
+* **From ESP to OSCAR: Building Open Platforms for Research, Education and Collaboration**  
+  * Luca Carloni, Columbia University 
 
-* Presentations \[7:55 PM \- 8:20 PM\]:  
-  * Topic of interest: robust PDK development, open-source AMS design flows, ecosystem governance initiatives and benchmarking standards.  
-* Interactive Q&A \[8:20 PM \- 8:35 PM\]: 15-minute panel Q&A with Session IV speakers.
+Panel Q\&A: Workforce Development, Training and Open-Source EDA Education \[9:00 PM \- 9:10 PM\] 
 
-#### V. Workforce Development and Training \[8:35 PM \- 9:15 PM\]
+* **Panelists**: Vidya, Mehdi, Davit  
+* Open to additional participants
 
-* Presentations \[8:35 PM \- 9:00 PM\]:  
-  * Topic of interest: bridging the hardware/software talent gap and reshaping university curricula and training engineers on modern open-source workflows.  
-* Interactive Q&A \[9:00 PM \- 9:15 PM\]: 15-minute panel Q&A with Session V speakers.
+VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
 
-#### VI. Lightning Round and Closing Remarks \[9:15 PM \- 9:30 PM\]
-
-* Open community forum to surface challenges and share experiences.  
-* Final Q&A and wrap-up.
+* **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
+  * Antonino Tumeo, Pacific Northwest National Laboratory  
+* 
 
 #### VII. Post-Session Networking \[9:30 PM Onwards\]
 
-* The "Co-Pilot" Afterparty: Unstructured networking session with food and drinks.
+* Unstructured networking session with refreshments
+
 
 # Registration
 
