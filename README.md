@@ -64,7 +64,7 @@ Panel Q\&A: Workforce Development, Training and Open-Source EDA Education \[9:00
 * **Panelists**: Vidya, Mehdi, Davit  
 * Open to additional participants
 
-VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
+#### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
 
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
   * Antonino Tumeo, Pacific Northwest National Laboratory  
