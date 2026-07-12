@@ -12,14 +12,14 @@ The session will also provide critical state-of-the-ecosystem updates, including
 
 Everyone is welcome, and admission is free! (If you have any questions or require a visa support letter, please contact Yiting Liu (yil375@ucsd.edu) and/or Oleg Levitsky (olevitsky@precisioninno.com).)
 
-# Agenda (tentative)
+# Agenda 
 
-## I. Opening \[6:30 PM \- 6:40 PM\]
+### I. Opening \[6:30 PM \- 6:40 PM\]
 
 * **Welcome and Introduction**  
-  * Andrew B. Kahng, UCSD
+  * Andrew B. Kahng, UC San Diego
 
-#### II. General Updates from the Community \[6:40 PM \- 7:10 PM\]
+### II. General Updates from the Community \[6:40 PM \- 7:10 PM\]
 
 * **Open Silicon in Action: What's New from CHIPS Alliance**  
   * Michael Gielda, VP of Business Development at Antmicro  
@@ -28,49 +28,62 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **ECOS Studio: From Open PDKs to Open-Source SoC Tapeouts**  
   * Tianji Liu, Institute of Computing Technology, Chinese Academy of Sciences
 
-#### III. Open-Source Ecosystem & Infrastructure \[7:10 PM \- 7:50 PM\]
+### III. Open-Source Ecosystem & Infrastructure \[7:10 PM \- 7:50 PM\]
 
 * **SCCAD-3N and OpenROAD Enablement for Open-Source Advanced-Node Design**  
-  * Sung Kyu Lim, USC   
+  * Sung Kyu Lim, University of Southern California   
 * **GT2N: An Open-Source 2nm Nanosheet PDK**  
-  * Dongwon Jang, Georgia Tech   
+  * Dongwon Jang, Georgia Institute of Technology
 * **Updates on 3D ODB**  
   * Cho Moon, Precision Innovations  
 * **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
   * Ishraq Tashdid, University of Central Florida 
 
-Break \[7:50PM \- 8:00 PM\]
+### Break \[7:50PM \- 8:00 PM\]
 
-#### IV. Augmented AI and Physical Design Workflows \[8:00 PM \- 8:40 PM\]
+### IV. Augmented AI and Physical Design Workflows \[8:00 PM \- 8:40 PM\]
 
 * **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
-  * Zhiyao Xie, HKUST  
+  * Zhiyao Xie, Hong Kong University of Science and Technology  
 * **Benchmarking Standards for Open-Source EDA Infrastructure**  
   * Ioannis Savidis, Drexel University   
 * **Four-State Logic and Verification Support in Verilator**  
-  * Krzysztof Bieganski, Antmicro/ CHIPS Alliance   
+  * Krzysztof Bieganski, Antmicro / CHIPS Alliance   
 * **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
   * Akash Levy, Silimate
 
-#### V. Workforce Development and Training \[8:40 PM \- 9:00 PM\]
+### V. Workforce Development and Training \[8:40 PM \- 9:00 PM\]
 
 * **Open-Source EDA and PDKs for Teaching and Research in the PULP Group**  
   * Arpan Suravi Prasad, ETH Zurich / PULP Group   
 * **From ESP to OSCAR: Building Open Platforms for Research, Education and Collaboration**  
   * Luca Carloni, Columbia University 
 
-Panel Q\&A: Workforce Development, Training and Open-Source EDA Education \[9:00 PM \- 9:10 PM\] 
+### Panel Q&A: Workforce Development, Training and Open-Source EDA Education \[9:00 PM \- 9:10 PM\] 
 
-* **Panelists**: Vidya, Mehdi, Davit  
-* Open to additional participants
+* **Panelists**
+  * Vidya Chhabria, Arizona State University
+  * Mehdi Saligane, Brown University
+  * Davit Markarian, UC San Diego
 
-#### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
+  *Additional participants are welcome to join the panel.*
+
+
+### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
 
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
   * Antonino Tumeo, Pacific Northwest National Laboratory  
-* 
+* **SVALint: An Open-Source, Build-Your-Own Linter for SystemVerilog Assertions**  
+  * Srinivasan Venkataramanan, AsFigo
 
-#### VII. Post-Session Networking \[9:30 PM Onwards\]
+* **Using a Semiconductor LLM to Drive Real DRC Sign-Off**  
+  * Shivaram Mysore, Vyges
+
+* **Open-Source Software for Analog Chip Design**  
+  * Joaquin Matres, GDSFactory
+
+
+### VII. Post-Session Networking \[9:30 PM Onwards\]
 
 * Unstructured networking session with refreshments
 
