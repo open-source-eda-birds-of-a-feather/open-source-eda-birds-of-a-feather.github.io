@@ -79,7 +79,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Using a Semiconductor LLM to Drive Real DRC Sign-Off**  
   * Shivaram Mysore, Vyges
 
-* **Open-Source Software for Analog Chip Design**  
+* **Accelerating Analog Chip Design with Open-Source PDKs and GDSFactory**  
   * Joaquin Matres, GDSFactory
 
 
@@ -88,6 +88,11 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * Unstructured networking session with refreshments
 
 
+### Prerecorded Video Contribution
+
+* **Open-Source EDA Software as a Strategic Alternative for European Chip Design**
+  * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
+  
 # Registration
 
 There is no registration fee. However, please fill in [**this Google Form**](https://docs.google.com/forms/d/e/1FAIpQLSdlexPUDUVAxrAhEdRtc8YUfhUKP-6mo49CDPJ4_zytrTdASQ/viewform?usp=header) to indicate your interests and whether you would like to share something with other attendees. Also, an important note: This year, attendees MUST have some kind of DAC-2026 badge (the “I Love DAC” badge is free, but you must obtain it in advance\!) in order to reach the meeting room. Please make sure that you obtain a badge so that you can attend\!

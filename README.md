@@ -79,7 +79,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Using a Semiconductor LLM to Drive Real DRC Sign-Off**  
   * Shivaram Mysore, Vyges
 
-* **Open-Source Software for Analog Chip Design**  
+* **Accelerating Analog Chip Design with Open-Source PDKs and GDSFactory**  
   * Joaquin Matres, GDSFactory
 
 
