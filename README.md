@@ -52,25 +52,23 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
   * Akash Levy, Silimate
 
-### V. Workforce Development and Training \[8:40 PM \- 9:00 PM\]
+### V. Workforce Development and Training \[8:40 PM \- 9:15 PM\]
 
 * **Open-Source EDA and PDKs for Teaching and Research in the PULP Group**  
   * Arpan Suravi Prasad, ETH Zurich / PULP Group   
 * **From ESP to OSCAR: Building Open Platforms for Research, Education and Collaboration**  
   * Luca Carloni, Columbia University 
 
-### Panel Q&A: Workforce Development, Training and Open-Source EDA Education \[9:00 PM \- 9:10 PM\] 
+* **Panel Q&A: Workforce Development, Training and Open-Source EDA Education**
 
-* **Panelists**
-  * Vidya Chhabria, Arizona State University
-  * Mehdi Saligane, Brown University
-  * Davit Markarian, UC San Diego
-  * Arpan Suravi Prasad, ETH Zurich / PULP Group
+  * **Panelists**
+    * Vidya Chhabria, Arizona State University
+    * Mehdi Saligane, Brown University
+    * Davit Markarian, UC San Diego
+    * Arpan Suravi Prasad, ETH Zurich / PULP Group
 
-  *Additional participants are welcome to join the panel.*
-
-
-### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
+  
+### VI. Lightning Round and Closing Remarks \[9:15 PM \- 9:30 PM\]
 
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
   * Antonino Tumeo, Pacific Northwest National Laboratory  
