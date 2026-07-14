@@ -65,6 +65,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * Vidya Chhabria, Arizona State University
   * Mehdi Saligane, Brown University
   * Davit Markarian, UC San Diego
+  * Arpan Suravi Prasad, ETH Zurich / PULP Group
 
   *Additional participants are welcome to join the panel.*
 
