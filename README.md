@@ -14,12 +14,12 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 # Agenda 
 
-### I. Opening \[6:30 PM \- 6:40 PM\]
+### I. Opening \[6:30 PM \- 6:35 PM\]
 
 * **Welcome and Introduction**  
   * Andrew B. Kahng, UC San Diego
 
-### II. General Updates from the Community \[6:40 PM \- 7:10 PM\]
+### II. General Updates from the Community \[6:35 PM \- 7:05 PM\]
 
 * **Open Silicon in Action: What's New from CHIPS Alliance**  
   * Michael Gielda, VP of Business Development at Antmicro  
@@ -28,7 +28,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **ECOS Studio: From Open PDKs to Open-Source SoC Tapeouts**  
   * Tianji Liu, Institute of Computing Technology, Chinese Academy of Sciences
 
-### III. Open-Source Ecosystem & Infrastructure \[7:10 PM \- 7:50 PM\]
+### III. Open-Source Ecosystem & Infrastructure \[7:05 PM \- 7:45 PM\]
 
 * **SCCAD-3N and OpenROAD Enablement for Open-Source Advanced-Node Design**  
   * Sung Kyu Lim, University of Southern California   
@@ -39,9 +39,9 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
   * Ishraq Tashdid, University of Central Florida 
 
-### Break \[7:50PM \- 8:00 PM\]
+### Break \[7:45PM \- 7:55 PM\]
 
-### IV. Augmented AI and Physical Design Workflows \[8:00 PM \- 8:40 PM\]
+### IV. Augmented AI and Physical Design Workflows \[7:55 PM \- 8:35 PM\]
 
 * **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
   * Zhiyao Xie, Hong Kong University of Science and Technology  
@@ -52,23 +52,24 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
   * Akash Levy, Silimate
 
-### V. Workforce Development and Training \[8:40 PM \- 9:15 PM\]
+### V. Workforce Development and Training \[8:35 PM \- 9:10 PM\]
 
 * **Open-Source EDA and PDKs for Teaching and Research in the PULP Group**  
   * Arpan Suravi Prasad, ETH Zurich / PULP Group   
 * **From ESP to OSCAR: Building Open Platforms for Research, Education and Collaboration**  
   * Luca Carloni, Columbia University 
 
-* **Panel Q&A: Workforce Development, Training and Open-Source EDA Education**
+* **Panel Q&A: From "How" to "What": Rethinking Skill Sets in the Age of AI**
 
   * **Panelists**
     * Vidya Chhabria, Arizona State University
     * Mehdi Saligane, Brown University
-    * Davit Markarian, UC San Diego
     * Arpan Suravi Prasad, ETH Zurich / PULP Group
+  * **Moderator**
+    * Oleg Levitsky, Precision Innovations  
 
   
-### VI. Lightning Round and Closing Remarks \[9:15 PM \- 9:30 PM\]
+### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
 
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
   * Antonino Tumeo, Pacific Northwest National Laboratory  
