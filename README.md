@@ -14,21 +14,20 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 # Agenda 
 
-### I. Opening \[6:30 PM \- 6:35 PM\]
+### I. Opening \[6:30 PM \- 6:40 PM\]
 
 * **Welcome and Introduction**  
   * Andrew B. Kahng, UC San Diego
 
-### II. General Updates from the Community \[6:35 PM \- 7:05 PM\]
+### II. General Updates from the Community \[6:40 PM \- 7:00 PM\]
 
 * **Open Silicon in Action: What's New from CHIPS Alliance**  
   * Michael Gielda, VP of Business Development at Antmicro  
 * **Update on OpenROAD and The OpenROAD Initiative**  
   * Tom Spyrou, Precision Innovations  
-* **ECOS Studio: From Open PDKs to Open-Source SoC Tapeouts**  
-  * Tianji Liu, Institute of Computing Technology, Chinese Academy of Sciences
 
-### III. Open-Source Ecosystem & Infrastructure \[7:05 PM \- 7:45 PM\]
+
+### III. Open-Source Ecosystem & Infrastructure \[7:00 PM \- 7:40 PM\]
 
 * **SCCAD-3N and OpenROAD Enablement for Open-Source Advanced-Node Design**  
   * Sung Kyu Lim, University of Southern California   
@@ -39,9 +38,9 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
   * Ishraq Tashdid, University of Central Florida 
 
-### Break \[7:45PM \- 7:55 PM\]
+### Break \[7:40PM \- 7:50 PM\]
 
-### IV. Augmented AI and Physical Design Workflows \[7:55 PM \- 8:35 PM\]
+### IV. Augmented AI and Physical Design Workflows \[7:50 PM \- 8:30 PM\]
 
 * **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
   * Zhiyao Xie, Hong Kong University of Science and Technology  
@@ -52,7 +51,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
   * Akash Levy, Silimate
 
-### V. Workforce Development and Training \[8:35 PM \- 9:10 PM\]
+### V. Workforce Development and Training \[8:30 PM \- 9:10 PM\]
 
 * **Open-Source EDA and PDKs for Teaching and Research in the PULP Group**  
   * Arpan Suravi Prasad, ETH Zurich / PULP Group   
@@ -64,6 +63,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * **Panelists**
     * Vidya Chhabria, Arizona State University
     * Mehdi Saligane, Brown University
+    * Luca Carloni, Columbia University 
     * Arpan Suravi Prasad, ETH Zurich / PULP Group
   * **Moderator**
     * Oleg Levitsky, Precision Innovations  
