@@ -19,16 +19,15 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Welcome and Introduction**  
   * Andrew B. Kahng, UC San Diego
 
-### II. General Updates from the Community \[6:40 PM \- 7:10 PM\]
+### II. General Updates from the Community \[6:40 PM \- 7:00 PM\]
 
 * **Open Silicon in Action: What's New from CHIPS Alliance**  
   * Michael Gielda, VP of Business Development at Antmicro  
 * **Update on OpenROAD and The OpenROAD Initiative**  
   * Tom Spyrou, Precision Innovations  
-* **ECOS Studio: From Open PDKs to Open-Source SoC Tapeouts**  
-  * Tianji Liu, Institute of Computing Technology, Chinese Academy of Sciences
 
-### III. Open-Source Ecosystem & Infrastructure \[7:10 PM \- 7:50 PM\]
+
+### III. Open-Source Ecosystem & Infrastructure \[7:00 PM \- 7:40 PM\]
 
 * **SCCAD-3N and OpenROAD Enablement for Open-Source Advanced-Node Design**  
   * Sung Kyu Lim, University of Southern California   
@@ -39,9 +38,14 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
   * Ishraq Tashdid, University of Central Florida 
 
-### Break \[7:50PM \- 8:00 PM\]
+### Break \[7:40PM \- 7:50 PM\]
 
-### IV. Augmented AI and Physical Design Workflows \[8:00 PM \- 8:40 PM\]
+### Prerecorded Video Contribution
+
+* **Open-Source EDA Software as a Strategic Alternative for European Chip Design**
+  * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
+
+### IV. Augmented AI and Physical Design Workflows \[7:50 PM \- 8:30 PM\]
 
 * **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
   * Zhiyao Xie, Hong Kong University of Science and Technology  
@@ -52,23 +56,24 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
   * Akash Levy, Silimate
 
-### V. Workforce Development and Training \[8:40 PM \- 9:00 PM\]
+### V. Workforce Development and Training \[8:30 PM \- 9:10 PM\]
 
 * **Open-Source EDA and PDKs for Teaching and Research in the PULP Group**  
   * Arpan Suravi Prasad, ETH Zurich / PULP Group   
 * **From ESP to OSCAR: Building Open Platforms for Research, Education and Collaboration**  
   * Luca Carloni, Columbia University 
 
-### Panel Q&A: Workforce Development, Training and Open-Source EDA Education \[9:00 PM \- 9:10 PM\] 
+* **Panel Q&A: From "How" to "What": Rethinking Skill Sets in the Age of AI**
 
-* **Panelists**
-  * Vidya Chhabria, Arizona State University
-  * Mehdi Saligane, Brown University
-  * Davit Markarian, UC San Diego
+  * **Panelists**
+    * Vidya Chhabria, Arizona State University
+    * Mehdi Saligane, Brown University
+    * Luca Carloni, Columbia University 
+    * Arpan Suravi Prasad, ETH Zurich / PULP Group
+  * **Moderator**
+    * Oleg Levitsky, Precision Innovations  
 
-  *Additional participants are welcome to join the panel.*
-
-
+  
 ### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
 
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
@@ -85,13 +90,9 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 ### VII. Post-Session Networking \[9:30 PM Onwards\]
 
-* Unstructured networking session with refreshments
+* **Open-Source & Open Tabs**: Keep the momentum going! Head over to The [**Auld Dubliner**](https://www.google.com/maps/place/The+Auld+Dubliner/@33.7648581,-118.1925736,15z/data=!3m1!5s0x80dd313a8e8c5e9d:0x7edf0a3aeca40525!4m17!1m9!2m8!1sBars+and+pubs!3m6!1sBars+and+pubs!2sLong+Beach+Convention+%26+Entertainment+Center,+300+E+Ocean+Blvd,+Long+Beach,+CA+90802!3s0x80dd313b68c4eae7:0x69f1fff3cb508d42!4m2!1d-118.1893688!2d33.7648004!3m6!1s0x80dd313a41364d11:0x6b07f904c7281acf!8m2!3d33.764837!4d-118.1926367!15sCg1CYXJzIGFuZCBwdWJzWg8iDWJhcnMgYW5kIHB1YnOSAQlpcmlzaF9wdWKaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnBzUTFGVlJuaGpTRWw2WWxSc1VtUldVWFJXVlRGS1pWUkNSRm94UlJBQuABAPoBBAhfEEo!16s%2Fm%2F0ljr4_9?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D) with us to debug ideas, answer the "what," and enjoy some late-night refreshments. 
 
 
-### Prerecorded Video Contribution
-
-* **Open-Source EDA Software as a Strategic Alternative for European Chip Design**
-  * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
   
 # Registration
 

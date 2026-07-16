@@ -40,6 +40,11 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 ### Break \[7:40PM \- 7:50 PM\]
 
+### Prerecorded Video Contribution
+
+* **Open-Source EDA Software as a Strategic Alternative for European Chip Design**
+  * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
+
 ### IV. Augmented AI and Physical Design Workflows \[7:50 PM \- 8:30 PM\]
 
 * **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
@@ -85,13 +90,9 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 ### VII. Post-Session Networking \[9:30 PM Onwards\]
 
-* Unstructured networking session with refreshments
+* **Open-Source & Open Tabs**: Keep the momentum going! Head over to The [**Auld Dubliner**](https://www.google.com/maps/place/The+Auld+Dubliner/@33.7648581,-118.1925736,15z/data=!3m1!5s0x80dd313a8e8c5e9d:0x7edf0a3aeca40525!4m17!1m9!2m8!1sBars+and+pubs!3m6!1sBars+and+pubs!2sLong+Beach+Convention+%26+Entertainment+Center,+300+E+Ocean+Blvd,+Long+Beach,+CA+90802!3s0x80dd313b68c4eae7:0x69f1fff3cb508d42!4m2!1d-118.1893688!2d33.7648004!3m6!1s0x80dd313a41364d11:0x6b07f904c7281acf!8m2!3d33.764837!4d-118.1926367!15sCg1CYXJzIGFuZCBwdWJzWg8iDWJhcnMgYW5kIHB1YnOSAQlpcmlzaF9wdWKaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMnBzUTFGVlJuaGpTRWw2WWxSc1VtUldVWFJXVlRGS1pWUkNSRm94UlJBQuABAPoBBAhfEEo!16s%2Fm%2F0ljr4_9?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D) with us to debug ideas, answer the "what," and enjoy some late-night refreshments. 
 
 
-### Prerecorded Video Contribution
-
-* **Open-Source EDA Software as a Strategic Alternative for European Chip Design**
-  * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
   
 # Registration
 
