@@ -70,6 +70,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
     * Mehdi Saligane, Brown University
     * Luca Carloni, Columbia University 
     * Arpan Suravi Prasad, ETH Zurich / PULP Group
+    * Srinivasan Venkataramanan, AsFigo
   * **Moderator**
     * Oleg Levitsky, Precision Innovations  
 
