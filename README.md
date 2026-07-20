@@ -23,8 +23,8 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 * **Open Silicon in Action: What's New from CHIPS Alliance**  
   * Michael Gielda, VP of Business Development at Antmicro  
-* **Update on OpenROAD and The OpenROAD Initiative**  
-  * Tom Spyrou, Precision Innovations  
+* **Update on the OpenROAD Initiative**  
+  * Ethan Mahintorabi, Google  
 
 
 ### III. Open-Source Ecosystem & Infrastructure \[7:00 PM \- 7:40 PM\]
