@@ -32,7 +32,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **SCCAD-3N and OpenROAD Enablement for Open-Source Advanced-Node Design**  
   * Sung Kyu Lim, University of Southern California   
 * **GT2N: An Open-Source 2nm Nanosheet PDK**  
-  * Dongwon Jang, Georgia Institute of Technology
+  * Md Mizanur Rahaman Nayan, Georgia Institute of Technology
 * **Updates on 3D ODB**  
   * Cho Moon, Precision Innovations  
 * **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
