@@ -66,12 +66,14 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Panel Q&A: From "How" to "What": Rethinking Skill Sets in the Age of AI**
 
   * **Panelists**
+    * Michael Gielda, Antmicro 
     * Vidya Chhabria, Arizona State University
     * Mehdi Saligane, Brown University
     * Luca Carloni, Columbia University 
     * Arpan Suravi Prasad, ETH Zurich / PULP Group
     * Akash Levy, Silimate
     * Shivaram Mysore, Vyges
+    * Sirish Munipalli, Moores Lab AI  
   * **Moderator**
     * Oleg Levitsky, Precision Innovations  
 
