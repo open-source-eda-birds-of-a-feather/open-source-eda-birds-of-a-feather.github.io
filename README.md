@@ -83,6 +83,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
   * Antonino Tumeo, Pacific Northwest National Laboratory  
 * **SVALint: An Open-Source, Build-Your-Own Linter for SystemVerilog Assertions**  
+  * Miles Huang, UCLA
   * Srinivasan Venkataramanan, AsFigo
 
 * **Using a Semiconductor LLM to Drive Real DRC Sign-Off**  
