@@ -33,7 +33,8 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * Sung Kyu Lim, University of Southern California   
 * **GT2N: An Open-Source 2nm Nanosheet PDK**  
   * Md Mizanur Rahaman Nayan, Georgia Institute of Technology
-* **Updates on 3D ODB**  
+* **Updates on 3D OpenROAD Database** 
+  * Osama Hammad, Precision Innovations  
   * Cho Moon, Precision Innovations  
 * **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
   * Ishraq Tashdid, University of Central Florida 
