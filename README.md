@@ -43,8 +43,9 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 ### Prerecorded Video Contribution
 
-* **Open-Source EDA Software as a Strategic Alternative for European Chip Design** [video](https://drive.google.com/file/d/1P6fWX5m6uArw7hHypB4W8Ja-V38WAtE7/view)
+* **Open-Source EDA Software as a Strategic Alternative for European Chip Design** 
   * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
+  * [Video](https://drive.google.com/file/d/1P6fWX5m6uArw7hHypB4W8Ja-V38WAtE7/view)
 
 ### IV. AI-Assisted EDA and Physical Design Workflows \[7:50 PM \- 8:30 PM\]
 
