@@ -94,6 +94,8 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Accelerating Analog Chip Design with Open-Source PDKs and GDSFactory**  
   * Joaquin Matres, GDSFactory
 
+* **TCI Donating AMS Environment to Open Source Community**
+  * Brian Gardner, True Circuits Inc.
 
 ### VII. Post-Session Networking \[9:30 PM Onwards\]
 
