@@ -37,6 +37,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/III-1-LIM-DAC-BOF-2026.pdf)  
 * **GT2N: An Open-Source 2nm Nanosheet PDK**  
   * Md Mizanur Rahaman Nayan, Georgia Institute of Technology
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/III-2-260728%20GT2N%20Presentation.pdf)
 * **Updates on 3D OpenROAD Database** 
   * Osama Hammad, Precision Innovations  
   * Cho Moon, Precision Innovations  
@@ -52,7 +53,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Open-Source EDA Software as a Strategic Alternative for European Chip Design** 
   * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
   * [Video](https://drive.google.com/file/d/1P6fWX5m6uArw7hHypB4W8Ja-V38WAtE7/view)
-  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/open_source_eda_export_control_bof.pdf)
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/Open-Source-EDA-DAC-2026.pdf)
 
 ### IV. AI-Assisted EDA and Physical Design Workflows \[7:50 PM \- 8:30 PM\]
 
