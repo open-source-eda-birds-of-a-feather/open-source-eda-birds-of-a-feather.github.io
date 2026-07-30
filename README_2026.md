@@ -18,32 +18,41 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 * **Welcome and Introduction**  
   * Andrew B. Kahng, UC San Diego
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/1-DAC-BOF-2026-Opening-v1.pdf)
+
 
 ### II. General Updates from the Community \[6:40 PM \- 7:00 PM\]
 
 * **Open Silicon in Action: What's New from CHIPS Alliance**  
-  * Michael Gielda, VP of Business Development at Antmicro  
-* **Update on OpenROAD and The OpenROAD Initiative**  
-  * Tom Spyrou, Precision Innovations  
+  * Michael Gielda, VP of Business Development at Antmicro
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/II-1-DAC%202026%20Open-Source%20EDA%20BoF_%20Open%20Silicon%20in%20Action_%20What%E2%80%99s%20New%20from%20CHIPS%20Alliance.pdf)  
+* **Update on the OpenROAD Initiative**  
+  * Ethan Mahintorabi, Google  
 
 
 ### III. Open-Source Ecosystem & Infrastructure \[7:00 PM \- 7:40 PM\]
 
 * **SCCAD-3N and OpenROAD Enablement for Open-Source Advanced-Node Design**  
-  * Sung Kyu Lim, University of Southern California   
+  * Sung Kyu Lim, University of Southern California 
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/III-1-LIM-DAC-BOF-2026.pdf)  
 * **GT2N: An Open-Source 2nm Nanosheet PDK**  
-  * Dongwon Jang, Georgia Institute of Technology
-* **Updates on 3D ODB**  
+  * Md Mizanur Rahaman Nayan, Georgia Institute of Technology
+* **Updates on 3D OpenROAD Database** 
+  * Osama Hammad, Precision Innovations  
   * Cho Moon, Precision Innovations  
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/III-3-20260728%20ODB%20update%20for%203D%20PnR%20v5.pdf)
 * **Security Challenges and Opportunities in the Open-Source EDA Ecosystem**  
-  * Ishraq Tashdid, University of Central Florida 
+  * Ishraq Tashdid, University of Central Florida
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/III-4-DAC_BOF_IshraqTashdid.pdf) 
 
 ### Break \[7:40PM \- 7:50 PM\]
 
 ### Prerecorded Video Contribution
 
-* **Open-Source EDA Software as a Strategic Alternative for European Chip Design**
+* **Open-Source EDA Software as a Strategic Alternative for European Chip Design** 
   * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
+  * [Video](https://drive.google.com/file/d/1P6fWX5m6uArw7hHypB4W8Ja-V38WAtE7/view)
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/open_source_eda_export_control_bof.pdf)
 
 ### IV. AI-Assisted EDA and Physical Design Workflows \[7:50 PM \- 8:30 PM\]
 
@@ -51,10 +60,13 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * Zhiyao Xie, Hong Kong University of Science and Technology  
 * **Benchmarking Standards for Open-Source EDA Infrastructure**  
   * Ioannis Savidis, Drexel University   
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-2-Savidis%20-%20DAC%20BoF.pdf)
 * **Four-State Logic and Verification Support in Verilator**  
-  * Krzysztof Bieganski, Antmicro / CHIPS Alliance   
+  * Krzysztof Bieganski, Antmicro / CHIPS Alliance  
+  
 * **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
   * Akash Levy, Silimate
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-4-silimate-updates-2026-dac-bof.pdf)
 
 ### V. Workforce Development and Training \[8:30 PM \- 9:10 PM\]
 
@@ -62,15 +74,18 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * Arpan Suravi Prasad, ETH Zurich / PULP Group   
 * **From ESP to OSCAR: Building Open Platforms for Research, Education and Collaboration**  
   * Luca Carloni, Columbia University 
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/V-2-Carloni_DAC__EDA_BoF_July2026.pdf)
 
-* **Panel Q&A: From "How" to "What": Rethinking Skill Sets in the Age of AI**
-
+* **Panel Q&A: From "How" to "What": Rethinking Skill Sets in the Age of AI** \[[Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/V-3-Panel.pdf)]
   * **Panelists**
+    * Michael Gielda, Antmicro 
     * Vidya Chhabria, Arizona State University
     * Mehdi Saligane, Brown University
     * Luca Carloni, Columbia University 
     * Arpan Suravi Prasad, ETH Zurich / PULP Group
-    * Srinivasan Venkataramanan, AsFigo
+    * Akash Levy, Silimate
+    * Shivaram Mysore, Vyges
+    * Sirish Munipalli, Moores Lab AI  
   * **Moderator**
     * Oleg Levitsky, Precision Innovations  
 
@@ -80,14 +95,20 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
   * Antonino Tumeo, Pacific Northwest National Laboratory  
 * **SVALint: An Open-Source, Build-Your-Own Linter for SystemVerilog Assertions**  
+  * Miles Huang, UCLA
   * Srinivasan Venkataramanan, AsFigo
 
 * **Using a Semiconductor LLM to Drive Real DRC Sign-Off**  
   * Shivaram Mysore, Vyges
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-3-vyges-dac2026-bof-live-5min.pdf)
+  * [Video]( https://youtu.be/PXGlqsNiil0)
 
 * **Accelerating Analog Chip Design with Open-Source PDKs and GDSFactory**  
   * Joaquin Matres, GDSFactory
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-4-DAC%202026%20BOF%20shared.pdf)
 
+* **TCI Donating AMS Environment to Open Source Community**
+  * Brian Gardner, True Circuits Inc.
 
 ### VII. Post-Session Networking \[9:30 PM Onwards\]
 
