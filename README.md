@@ -28,6 +28,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/II-1-DAC%202026%20Open-Source%20EDA%20BoF_%20Open%20Silicon%20in%20Action_%20What%E2%80%99s%20New%20from%20CHIPS%20Alliance.pdf)  
 * **Update on the OpenROAD Initiative**  
   * Ethan Mahintorabi, Google  
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/II-2-ORI%202026%20Update%20(4).pdf)
 
 
 ### III. Open-Source Ecosystem & Infrastructure \[7:00 PM \- 7:40 PM\]
