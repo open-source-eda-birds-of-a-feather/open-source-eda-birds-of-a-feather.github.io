@@ -94,7 +94,8 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 ### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
 
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
-  * Antonino Tumeo, Pacific Northwest National Laboratory  
+  * Antonino Tumeo, Pacific Northwest National Laboratory 
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-1-DACBOF26-final.pdf) 
 * **SVALint: An Open-Source, Build-Your-Own Linter for SystemVerilog Assertions**  
   * Miles Huang, UCLA
   * Srinivasan Venkataramanan, AsFigo
