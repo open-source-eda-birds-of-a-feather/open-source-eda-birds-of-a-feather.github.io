@@ -28,6 +28,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/II-1-DAC%202026%20Open-Source%20EDA%20BoF_%20Open%20Silicon%20in%20Action_%20What%E2%80%99s%20New%20from%20CHIPS%20Alliance.pdf)  
 * **Update on the OpenROAD Initiative**  
   * Ethan Mahintorabi, Google  
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/II-2-ORI%202026%20Update%20(4).pdf)
 
 
 ### III. Open-Source Ecosystem & Infrastructure \[7:00 PM \- 7:40 PM\]
@@ -37,6 +38,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/III-1-LIM-DAC-BOF-2026.pdf)  
 * **GT2N: An Open-Source 2nm Nanosheet PDK**  
   * Md Mizanur Rahaman Nayan, Georgia Institute of Technology
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/III-2-260728%20GT2N%20Presentation.pdf)
 * **Updates on 3D OpenROAD Database** 
   * Osama Hammad, Precision Innovations  
   * Cho Moon, Precision Innovations  
@@ -52,12 +54,13 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **Open-Source EDA Software as a Strategic Alternative for European Chip Design** 
   * Barbara Wojsz and Tomasz Hemperek, DECTRIS Ltd.
   * [Video](https://drive.google.com/file/d/1P6fWX5m6uArw7hHypB4W8Ja-V38WAtE7/view)
-  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/open_source_eda_export_control_bof.pdf)
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/Open-Source-EDA-DAC-2026.pdf)
 
 ### IV. AI-Assisted EDA and Physical Design Workflows \[7:50 PM \- 8:30 PM\]
 
 * **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
   * Zhiyao Xie, Hong Kong University of Science and Technology  
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-1-BOF-Zhiyao-v2.pdf)
 * **Benchmarking Standards for Open-Source EDA Infrastructure**  
   * Ioannis Savidis, Drexel University   
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-2-Savidis%20-%20DAC%20BoF.pdf)
@@ -72,6 +75,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 * **Open-Source EDA and PDKs for Teaching and Research in the PULP Group**  
   * Arpan Suravi Prasad, ETH Zurich / PULP Group   
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/V-1-arpan_dac_bof_2026_final.pdf)
 * **From ESP to OSCAR: Building Open Platforms for Research, Education and Collaboration**  
   * Luca Carloni, Columbia University 
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/V-2-Carloni_DAC__EDA_BoF_July2026.pdf)
@@ -93,10 +97,12 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 ### VI. Lightning Round and Closing Remarks \[9:10 PM \- 9:30 PM\]
 
 * **From ENCODE and DECODE to DOE-SC Open-Source EDA Prototyping**  
-  * Antonino Tumeo, Pacific Northwest National Laboratory  
+  * Antonino Tumeo, Pacific Northwest National Laboratory 
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-1-DACBOF26-final.pdf) 
 * **SVALint: An Open-Source, Build-Your-Own Linter for SystemVerilog Assertions**  
   * Miles Huang, UCLA
   * Srinivasan Venkataramanan, AsFigo
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-2-AsFigo_SVALint-DAC-2026-Updated.pdf)
 
 * **Using a Semiconductor LLM to Drive Real DRC Sign-Off**  
   * Shivaram Mysore, Vyges
@@ -109,6 +115,8 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 * **TCI Donating AMS Environment to Open Source Community**
   * Brian Gardner, True Circuits Inc.
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-5-TCI%20BoF%20one%20slide%202026%20(1).pdf)
+
 
 ### VII. Post-Session Networking \[9:30 PM Onwards\]
 
