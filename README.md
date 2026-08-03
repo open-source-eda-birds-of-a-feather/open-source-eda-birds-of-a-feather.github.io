@@ -66,6 +66,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-2-Savidis%20-%20DAC%20BoF.pdf)
 * **Four-State Logic and Verification Support in Verilator**  
   * Krzysztof Bieganski, Antmicro / CHIPS Alliance  
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-3-Four-State%20Logic%20and%20Verification%20Support%20in%20Verilator.pdf)
   
 * **Silimate Updates: Open-Source Contributions to OpenSTA, ABC, Yosys and EDA Utilities**  
   * Akash Levy, Silimate
