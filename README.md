@@ -60,6 +60,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 * **Open Benchmarks and Data Generation for LLM-Assisted RTL and Design Automation**  
   * Zhiyao Xie, Hong Kong University of Science and Technology  
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-1-BOF-Zhiyao-v2.pdf)
 * **Benchmarking Standards for Open-Source EDA Infrastructure**  
   * Ioannis Savidis, Drexel University   
   * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/IV-2-Savidis%20-%20DAC%20BoF.pdf)
@@ -100,6 +101,7 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 * **SVALint: An Open-Source, Build-Your-Own Linter for SystemVerilog Assertions**  
   * Miles Huang, UCLA
   * Srinivasan Venkataramanan, AsFigo
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-2-AsFigo_SVALint-DAC-2026-Updated.pdf)
 
 * **Using a Semiconductor LLM to Drive Real DRC Sign-Off**  
   * Shivaram Mysore, Vyges
