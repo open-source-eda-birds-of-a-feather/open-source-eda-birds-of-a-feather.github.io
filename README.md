@@ -112,6 +112,8 @@ Everyone is welcome, and admission is free! (If you have any questions or requir
 
 * **TCI Donating AMS Environment to Open Source Community**
   * Brian Gardner, True Circuits Inc.
+  * [Slides](https://github.com/open-source-eda-birds-of-a-feather/open-source-eda-birds-of-a-feather.github.io/blob/main/doc/slides_2026/VI-5-TCI%20BoF%20one%20slide%202026%20(1).pdf)
+
 
 ### VII. Post-Session Networking \[9:30 PM Onwards\]
 
